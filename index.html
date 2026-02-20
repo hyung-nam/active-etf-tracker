@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TIMEFOLIO ETF 추적</title>
+    <title>Active ETF 분석</title>
     <style>
         * {
             margin: 0;
@@ -476,8 +476,8 @@
 <body>
     <div class="container">
         <div class="header">
-            <h1>TIMEFOLIO ETF 추적</h1>
-            <p>17개 액티브 ETF 포트폴리오 분석</p>
+            <h1>Active ETF 분석</h1>
+            <p>Portfolio Tracker</p>
         </div>
 
         <div class="tabs">
@@ -616,7 +616,7 @@
                 if (meta && meta.updated_at) {
                     const header = document.querySelector('.header p');
                     if (header) {
-                        header.textContent = '17개 액티브 ETF 포트폴리오 분석 | Last Updated: ' + meta.updated_at;
+                        header.textContent = 'Last Updated: ' + meta.updated_at;
                     }
                 }
 
