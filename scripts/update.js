@@ -44,6 +44,27 @@ function sleep(ms) {
   return new Promise(r => setTimeout(r, ms));
 }
 
+// ─── 선물 티커 정규화 ────────────────────────────────
+// timeetf.co.kr에서 선물 티커가 크롤링 시점에 따라 달라지는 문제 방지
+// 예: "HCTH26 Index" → "HCTH6 Index", "HCTH6" → "HCTH6 Index"
+// 선물 월코드: F(1) G(2) H(3) J(4) K(5) M(6) N(7) Q(8) U(9) V(10) X(11) Z(12)
+
+const FUTURES_MONTH_CODES = 'FGHJKMNQUVXZ';
+
+function normalizeFuturesTicker(ticker) {
+  // 패턴: ROOT(2~4자) + MONTH_CODE + YEAR(1~2자리) + 선택적 " Index"
+  const m = ticker.match(/^([A-Z]{2,5})([FGHJKMNQUVXZ])(\d{1,2})(\s+Index)?$/);
+  if (!m) return ticker;
+
+  const root = m[1];
+  const monthCode = m[2];
+  const yearRaw = m[3];
+  // 연도를 1자리로 통일 (26 → 6, 6 → 6)
+  const yearNorm = String(parseInt(yearRaw, 10) % 10);
+
+  return `${root}${monthCode}${yearNorm} Index`;
+}
+
 // ─── HTML 파싱 ───────────────────────────────────────
 
 function parseETFPage(html) {
@@ -66,7 +87,7 @@ function parseETFPage(html) {
       const weight = cells[4];
       // 헤더행, 빈행, 현금 제외
       if (ticker && ticker !== '종목코드' && name !== '현금') {
-        rows.push([ticker, name, qty, weight]);
+        rows.push([normalizeFuturesTicker(ticker), name, qty, weight]);
       }
     }
   }
