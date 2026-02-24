@@ -52,3 +52,11 @@ jobs:
             git commit -m "data: ${DATE} ETF 구성종목 데이터 업데이트"
             git push
           fi
+
+      # Step 4: 텔레그램 변동요약 알림
+      - name: Send Telegram notification
+        if: success()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: node scripts/notify_telegram.js
