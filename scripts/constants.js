@@ -16,7 +16,8 @@ const ETF_LIST = [
   { idx: '8',  name: 'TIME 글로벌소비트렌드액티브' },
   { idx: '15', name: 'TIME 코리아밸류업액티브' },
   { idx: '17', name: 'TIME K이노베이션액티브' },
-  { idx: '1',  name: 'TIME K컬처액티브' }
+  { idx: '1',  name: 'TIME K컬처액티브' },
+  { idx: '24', name: 'TIME 코스닥액티브' }
 ];
 
 const GLOBAL_ETFS = [
@@ -28,7 +29,8 @@ const GLOBAL_ETFS = [
 
 const DOMESTIC_ETFS = [
   'TIME K신재생에너지액티브', 'TIME K바이오액티브', 'TIME Korea플러스배당액티브',
-  'TIME 코스피액티브', 'TIME 코리아밸류업액티브', 'TIME K이노베이션액티브', 'TIME K컬처액티브'
+  'TIME 코스피액티브', 'TIME 코리아밸류업액티브', 'TIME K이노베이션액티브', 'TIME K컬처액티브',
+  'TIME 코스닥액티브'
 ];
 
 const CRAWL_BASE_URL = 'https://timeetf.co.kr/constituent_popup.php';
