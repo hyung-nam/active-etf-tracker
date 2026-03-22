@@ -1,6 +1,9 @@
 name: Daily ETF Update & Deploy
 
+
 on:
+  schedule:
+    - cron: '0 23 * * *'  # 매일 23:00 UTC (08:00 KST) 자동 실행
   # schedule 제거 — GitHub Actions cron이 불안정하여 cron-job.org 외부 트리거 사용
   workflow_dispatch:
     inputs:
@@ -9,8 +12,10 @@ on:
         required: false
         default: ''
 
+
 permissions:
   contents: write
+
 
 jobs:
   update:
@@ -19,10 +24,12 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
+
 
       # Step 1: 크롤링
       - name: Crawl ETF data
@@ -33,28 +40,5 @@ jobs:
             node scripts/update.js
           fi
 
+
       # Step 2: 프론트엔드 JSON 빌드
-      - name: Build latest JSON
-        run: node scripts/build_latest.js
-
-      # Step 3: 변경사항 커밋 & 푸시 → GitHub Pages 자동 배포 (branch 방식)
-      - name: Commit and push data
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/
-          if git diff --staged --quiet; then
-            echo "No changes to commit (공휴일 또는 데이터 미변경)"
-          else
-            DATE=$(TZ=Asia/Seoul date +"%Y-%m-%d")
-            git commit -m "data: ${DATE} ETF 구성종목 데이터 업데이트"
-            git push
-          fi
-
-      # Step 4: 텔레그램 변동요약 알림
-      - name: Send Telegram notification
-        if: success()
-        env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: node scripts/notify_telegram.js
