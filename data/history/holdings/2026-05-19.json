@@ -4060,5 +4060,193 @@
       "100",
       "0.22"
     ]
+  ],
+  "TIME 글로벌휴머노이드로봇산업액티브": [
+    [
+      "005380",
+      "현대차",
+      "51",
+      "6.76"
+    ],
+    [
+      "TSLA US EQUITY",
+      "Tesla Inc",
+      "53",
+      "6.71"
+    ],
+    [
+      "277810",
+      "레인보우로보틱스",
+      "45",
+      "6.71"
+    ],
+    [
+      "9880 HK EQUITY",
+      "UBTech Robotics Corp Ltd",
+      "1,168",
+      "4.95"
+    ],
+    [
+      "688256 CH EQUITY",
+      "Cambricon Technologies Corp Ltd",
+      "91",
+      "4.85"
+    ],
+    [
+      "3986 HK EQUITY",
+      "GigaDevice Semiconductor Inc",
+      "216",
+      "4.50"
+    ],
+    [
+      "6268 JP EQUITY",
+      "Nabtesco Corp",
+      "385",
+      "4.11"
+    ],
+    [
+      "3750 HK EQUITY",
+      "Contemporary Amperex Technology Co Ltd",
+      "152",
+      "3.96"
+    ],
+    [
+      "2050 HK EQUITY",
+      "Zhejiang Sanhua Intelligent Controls Co Ltd",
+      "2,834",
+      "3.90"
+    ],
+    [
+      "601689 CH EQUITY",
+      "Ningbo Tuopu Group Co Ltd",
+      "1,233",
+      "3.80"
+    ],
+    [
+      "INTC US EQUITY",
+      "Intel Corp",
+      "113",
+      "3.69"
+    ],
+    [
+      "688017 CH EQUITY",
+      "Leader Harmonious Drive Systems Co Ltd",
+      "271",
+      "3.65"
+    ],
+    [
+      "601100 CH EQUITY",
+      "Jiangsu Hengli Hydraulic Co Ltd",
+      "589",
+      "3.01"
+    ],
+    [
+      "300124 CH EQUITY",
+      "Shenzhen Inovance Technology Co Ltd",
+      "861",
+      "2.93"
+    ],
+    [
+      "108490",
+      "로보티즈",
+      "47",
+      "2.88"
+    ],
+    [
+      "603119 CH EQUITY",
+      "Zhejiang Rongtai Electric Material Co Ltd",
+      "894",
+      "2.87"
+    ],
+    [
+      "NVDA US EQUITY",
+      "NVIDIA Corp",
+      "42",
+      "2.84"
+    ],
+    [
+      "HSAI US EQUITY",
+      "Hesai Group",
+      "415",
+      "2.79"
+    ],
+    [
+      "TER US EQUITY",
+      "Teradyne Inc",
+      "27",
+      "2.74"
+    ],
+    [
+      "688041 CH EQUITY",
+      "Hygon Information Technology Co Ltd",
+      "146",
+      "1.95"
+    ],
+    [
+      "012330",
+      "현대모비스",
+      "17",
+      "1.94"
+    ],
+    [
+      "6258 JP EQUITY",
+      "Hirata Corp",
+      "334",
+      "1.92"
+    ],
+    [
+      "005930",
+      "삼성전자",
+      "34",
+      "1.91"
+    ],
+    [
+      "058610",
+      "에스피지",
+      "78",
+      "1.91"
+    ],
+    [
+      "002472 C2 EQUITY",
+      "Zhejiang Shuanghuan Driveline Co Ltd",
+      "1,011",
+      "1.89"
+    ],
+    [
+      "100 HK EQUITY",
+      "Minimax Group Inc",
+      "33",
+      "1.00"
+    ],
+    [
+      "6981 JP EQUITY",
+      "Murata Manufacturing Co Ltd",
+      "84",
+      "0.98"
+    ],
+    [
+      "688585 CH EQUITY",
+      "Swancor Advanced Materials Co Ltd",
+      "154",
+      "0.93"
+    ],
+    [
+      "688322 CH EQUITY",
+      "Orbbec Inc",
+      "233",
+      "0.91"
+    ],
+    [
+      "2513 HK EQUITY",
+      "Knowledge Atlas Technology JSC Ltd",
+      "22",
+      "0.88"
+    ],
+    [
+      "300433 CH EQUITY",
+      "Lens Technology Co Ltd",
+      "578",
+      "0.87"
+    ]
   ]
 }
