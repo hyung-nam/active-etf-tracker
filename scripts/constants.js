@@ -17,14 +17,16 @@ const ETF_LIST = [
   { idx: '15', name: 'TIME 코리아밸류업액티브' },
   { idx: '17', name: 'TIME K이노베이션액티브' },
   { idx: '1',  name: 'TIME K컬처액티브' },
-  { idx: '24', name: 'TIME 코스닥액티브' }
+  { idx: '24', name: 'TIME 코스닥액티브' },
+  { idx: '25', name: 'TIME 글로벌휴머노이드로봇산업액티브' }
 ];
 
 const GLOBAL_ETFS = [
   'TIME 글로벌탑픽액티브', 'TIME 글로벌바이오액티브', 'TIME 글로벌우주테크&방산액티브',
   'TIME 미국S&P500액티브', 'TIME 차이나AI테크액티브', 'TIME 글로벌AI인공지능액티브',
   'TIME 미국나스닥100액티브', 'TIME 미국배당다우존스액티브',
-  'TIME 미국나스닥100채권혼합50액티브', 'TIME 글로벌소비트렌드액티브'
+  'TIME 미국나스닥100채권혼합50액티브', 'TIME 글로벌소비트렌드액티브',
+  'TIME 글로벌휴머노이드로봇산업액티브'
 ];
 
 const DOMESTIC_ETFS = [
