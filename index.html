@@ -586,9 +586,10 @@
 
         async function loadDataFromJSON() {
             try {
+                const cacheBust = `?t=${Date.now()}`;
                 const [holdingsRes, metaRes] = await Promise.all([
-                    fetch('data/latest/holdings.json'),
-                    fetch('data/latest/last_updated.json')
+                    fetch('data/latest/holdings.json' + cacheBust, { cache: 'no-store' }),
+                    fetch('data/latest/last_updated.json' + cacheBust, { cache: 'no-store' })
                 ]);
                 const holdings = await holdingsRes.json();
                 const meta = await metaRes.json();
