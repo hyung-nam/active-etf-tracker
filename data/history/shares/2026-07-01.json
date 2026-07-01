@@ -1,0 +1,4600 @@
+{
+  "TIME 글로벌탑픽액티브": [
+    [
+      "VT US EQUITY",
+      "Vanguard Total World Stock ETF",
+      "744",
+      "27.43"
+    ],
+    [
+      "SPGM US EQUITY",
+      "State Street SPDR Portfolio MSCI Global Stock Market ETF",
+      "1,357",
+      "27.30"
+    ],
+    [
+      "ACWI US EQUITY",
+      "iShares MSCI ACWI ETF",
+      "734",
+      "27.06"
+    ],
+    [
+      "URTH US EQUITY",
+      "iShares MSCI World ETF",
+      "359",
+      "17.09"
+    ]
+  ],
+  "TIME K신재생에너지액티브": [
+    [
+      "000660",
+      "SK하이닉스",
+      "110",
+      "10.07"
+    ],
+    [
+      "005930",
+      "삼성전자",
+      "850",
+      "9.80"
+    ],
+    [
+      "009150",
+      "삼성전기",
+      "118",
+      "8.90"
+    ],
+    [
+      "009830",
+      "한화솔루션",
+      "7,047",
+      "8.26"
+    ],
+    [
+      "006400",
+      "삼성SDI",
+      "460",
+      "7.74"
+    ],
+    [
+      "112610",
+      "씨에스윈드",
+      "3,868",
+      "5.68"
+    ],
+    [
+      "000880",
+      "한화",
+      "1,199",
+      "4.13"
+    ],
+    [
+      "005290",
+      "동진쎄미켐",
+      "1,747",
+      "3.52"
+    ],
+    [
+      "005380",
+      "현대차",
+      "200",
+      "3.42"
+    ],
+    [
+      "078600",
+      "대주전자재료",
+      "1,000",
+      "3.36"
+    ],
+    [
+      "028260",
+      "삼성물산",
+      "200",
+      "3.24"
+    ],
+    [
+      "100090",
+      "SK오션플랜트",
+      "5,700",
+      "2.98"
+    ],
+    [
+      "240810",
+      "원익IPS",
+      "500",
+      "2.90"
+    ],
+    [
+      "000270",
+      "기아",
+      "600",
+      "2.86"
+    ],
+    [
+      "010120",
+      "LS ELECTRIC",
+      "340",
+      "2.79"
+    ],
+    [
+      "005490",
+      "POSCO홀딩스",
+      "250",
+      "2.74"
+    ],
+    [
+      "034730",
+      "SK",
+      "95",
+      "2.74"
+    ],
+    [
+      "012330",
+      "현대모비스",
+      "150",
+      "2.59"
+    ],
+    [
+      "009540",
+      "HD한국조선해양",
+      "193",
+      "2.33"
+    ],
+    [
+      "006260",
+      "LS",
+      "130",
+      "1.64"
+    ],
+    [
+      "022100",
+      "포스코DX",
+      "2,166",
+      "1.62"
+    ],
+    [
+      "096770",
+      "SK이노베이션",
+      "400",
+      "1.31"
+    ],
+    [
+      "336260",
+      "두산퓨얼셀",
+      "647",
+      "1.25"
+    ],
+    [
+      "066570",
+      "LG전자",
+      "169",
+      "1.19"
+    ]
+  ],
+  "TIME 글로벌바이오액티브": [
+    [
+      "LLY US EQUITY",
+      "Eli Lilly & Co",
+      "45",
+      "14.36"
+    ],
+    [
+      "JNJ US EQUITY",
+      "Johnson & Johnson",
+      "75",
+      "5.03"
+    ],
+    [
+      "BIIB US EQUITY",
+      "Biogen Inc",
+      "85",
+      "4.78"
+    ],
+    [
+      "NVS US EQUITY",
+      "Novartis AG",
+      "111",
+      "4.54"
+    ],
+    [
+      "ARWR US EQUITY",
+      "Arrowhead Pharmaceuticals Inc",
+      "210",
+      "4.39"
+    ],
+    [
+      "MRK US EQUITY",
+      "Merck & Co Inc",
+      "115",
+      "3.86"
+    ],
+    [
+      "RVTY US EQUITY",
+      "Revvity Inc",
+      "130",
+      "3.75"
+    ],
+    [
+      "GILD US EQUITY",
+      "Gilead Sciences Inc",
+      "114",
+      "3.74"
+    ],
+    [
+      "MRNA US EQUITY",
+      "Moderna Inc",
+      "200",
+      "3.62"
+    ],
+    [
+      "TMO US EQUITY",
+      "Thermo Fisher Scientific Inc",
+      "27",
+      "3.55"
+    ],
+    [
+      "NTRA US EQUITY",
+      "Natera Inc",
+      "50",
+      "3.53"
+    ],
+    [
+      "TEVA US EQUITY",
+      "Teva Pharmaceutical Industries Ltd",
+      "400",
+      "3.46"
+    ],
+    [
+      "EXEL US EQUITY",
+      "Exelixis Inc",
+      "240",
+      "3.38"
+    ],
+    [
+      "IONS US EQUITY",
+      "Ionis Pharmaceuticals Inc",
+      "160",
+      "3.35"
+    ],
+    [
+      "ABBV US EQUITY",
+      "AbbVie Inc",
+      "47",
+      "3.10"
+    ],
+    [
+      "MEDP US EQUITY",
+      "Medpace Holdings Inc",
+      "22",
+      "3.05"
+    ],
+    [
+      "GPCR US EQUITY",
+      "Structure Therapeutics Inc",
+      "226",
+      "3.03"
+    ],
+    [
+      "REGN US EQUITY",
+      "Regeneron Pharmaceuticals Inc",
+      "18",
+      "2.95"
+    ],
+    [
+      "ALNY US EQUITY",
+      "Alnylam Pharmaceuticals Inc",
+      "36",
+      "2.74"
+    ],
+    [
+      "ICLR US EQUITY",
+      "ICON PLC",
+      "60",
+      "2.69"
+    ],
+    [
+      "NVO US EQUITY",
+      "Novo Nordisk A/S",
+      "210",
+      "2.63"
+    ],
+    [
+      "AMGN US EQUITY",
+      "Amgen Inc",
+      "28",
+      "2.62"
+    ],
+    [
+      "BAX US EQUITY",
+      "Baxter International Inc",
+      "420",
+      "2.40"
+    ],
+    [
+      "VTRS US EQUITY",
+      "Viatris Inc",
+      "420",
+      "1.77"
+    ],
+    [
+      "GSK US EQUITY",
+      "GSK PLC",
+      "129",
+      "1.77"
+    ],
+    [
+      "PFE US EQUITY",
+      "Pfizer Inc",
+      "210",
+      "1.33"
+    ]
+  ],
+  "TIME 글로벌우주테크&방산액티브": [
+    [
+      "GE US EQUITY",
+      "General Electric Co",
+      "210",
+      "10.45"
+    ],
+    [
+      "RTX US EQUITY",
+      "RTX Corp",
+      "273",
+      "6.81"
+    ],
+    [
+      "MOG/A US EQUITY",
+      "Moog Inc",
+      "109",
+      "6.18"
+    ],
+    [
+      "HWM US EQUITY",
+      "Howmet Aerospace Inc",
+      "149",
+      "5.33"
+    ],
+    [
+      "SPCX US EQUITY",
+      "Space Exploration Technologies Corp",
+      "226",
+      "4.94"
+    ],
+    [
+      "AIR FP EQUITY",
+      "Airbus SE",
+      "149",
+      "4.33"
+    ],
+    [
+      "LHX US EQUITY",
+      "L3Harris Technologies Inc",
+      "104",
+      "4.01"
+    ],
+    [
+      "GD US EQUITY",
+      "General Dynamics Corp",
+      "82",
+      "3.80"
+    ],
+    [
+      "HON US EQUITY",
+      "Honeywell International Inc",
+      "124",
+      "3.76"
+    ],
+    [
+      "HONA US EQUITY",
+      "Honeywell Aerospace Inc",
+      "124",
+      "3.64"
+    ],
+    [
+      "SAF FP EQUITY",
+      "Safran SA",
+      "66",
+      "3.37"
+    ],
+    [
+      "TDG US EQUITY",
+      "TransDigm Group Inc",
+      "19",
+      "3.35"
+    ],
+    [
+      "CRS US EQUITY",
+      "Carpenter Technology Corp",
+      "41",
+      "3.31"
+    ],
+    [
+      "NOC US EQUITY",
+      "Northrop Grumman Corp",
+      "48",
+      "3.17"
+    ],
+    [
+      "CW US EQUITY",
+      "Curtiss-Wright Corp",
+      "31",
+      "3.04"
+    ],
+    [
+      "RKLB US EQUITY",
+      "Rocket Lab Corp",
+      "201",
+      "2.62"
+    ],
+    [
+      "TDY US EQUITY",
+      "Teledyne Technologies Inc",
+      "28",
+      "2.39"
+    ],
+    [
+      "ATI US EQUITY",
+      "ATI Inc",
+      "79",
+      "2.08"
+    ],
+    [
+      "LMT US EQUITY",
+      "Lockheed Martin Corp",
+      "30",
+      "2.01"
+    ],
+    [
+      "TER US EQUITY",
+      "Teradyne Inc",
+      "29",
+      "1.79"
+    ],
+    [
+      "AXON US EQUITY",
+      "Axon Enterprise Inc",
+      "24",
+      "1.63"
+    ],
+    [
+      "7011 JP EQUITY",
+      "Mitsubishi Heavy Industries Ltd",
+      "512",
+      "1.53"
+    ],
+    [
+      "7012 JP EQUITY",
+      "Kawasaki Heavy Industries Ltd",
+      "597",
+      "1.42"
+    ],
+    [
+      "FTAI US EQUITY",
+      "FTAI Aviation Ltd",
+      "38",
+      "1.33"
+    ],
+    [
+      "ASTS US EQUITY",
+      "AST SpaceMobile Inc",
+      "114",
+      "1.32"
+    ],
+    [
+      "BWXT US EQUITY",
+      "BWX Technologies Inc",
+      "46",
+      "1.16"
+    ],
+    [
+      "079550",
+      "LIG디펜스앤에어로스페이스",
+      "18",
+      "1.11"
+    ],
+    [
+      "RR/ LN EQUITY",
+      "Rolls-Royce Holdings PLC",
+      "443",
+      "1.11"
+    ],
+    [
+      "012450",
+      "한화에어로스페이스",
+      "12",
+      "1.03"
+    ],
+    [
+      "329180",
+      "HD현대중공업",
+      "19",
+      "0.97"
+    ],
+    [
+      "GOOGL US EQUITY",
+      "Alphabet Inc",
+      "20",
+      "0.94"
+    ],
+    [
+      "INTC US EQUITY",
+      "Intel Corp",
+      "52",
+      "0.91"
+    ],
+    [
+      "HII US EQUITY",
+      "Huntington Ingalls Industries Inc",
+      "24",
+      "0.89"
+    ],
+    [
+      "KTOS US EQUITY",
+      "Kratos Defense & Security Solutions Inc",
+      "136",
+      "0.85"
+    ],
+    [
+      "ESLT IT EQUITY",
+      "Elbit Systems Ltd",
+      "7",
+      "0.68"
+    ],
+    [
+      "PL US EQUITY",
+      "Planet Labs PBC",
+      "161",
+      "0.67"
+    ]
+  ],
+  "TIME 미국S&P500액티브": [
+    [
+      "ESU6 INDEX",
+      "S&P500 EMINI FUT SEPT 2026",
+      "0",
+      "7.91"
+    ],
+    [
+      "GOOGL US EQUITY",
+      "Alphabet Inc",
+      "69",
+      "5.15"
+    ],
+    [
+      "NVDA US EQUITY",
+      "NVIDIA Corp",
+      "122",
+      "5.02"
+    ],
+    [
+      "AAPL US EQUITY",
+      "Apple Inc",
+      "77",
+      "4.58"
+    ],
+    [
+      "SPY US EQUITY",
+      "State Street SPDR S&P 500 ETF Trust",
+      "24",
+      "3.75"
+    ],
+    [
+      "CAT US EQUITY",
+      "Caterpillar Inc",
+      "15",
+      "3.27"
+    ],
+    [
+      "MSFT US EQUITY",
+      "Microsoft Corp",
+      "39",
+      "3.03"
+    ],
+    [
+      "SNDK US EQUITY",
+      "Sandisk Corp",
+      "7",
+      "3.03"
+    ],
+    [
+      "AMZN US EQUITY",
+      "Amazon.com Inc",
+      "54",
+      "2.74"
+    ],
+    [
+      "BRK/B US EQUITY",
+      "Berkshire Hathaway Inc",
+      "26",
+      "2.72"
+    ],
+    [
+      "MRVL US EQUITY",
+      "Marvell Technology Inc",
+      "45",
+      "2.64"
+    ],
+    [
+      "AVGO US EQUITY",
+      "Broadcom Inc",
+      "31",
+      "2.44"
+    ],
+    [
+      "LRCX US EQUITY",
+      "Lam Research Corp",
+      "28",
+      "2.43"
+    ],
+    [
+      "AMD US EQUITY",
+      "Advanced Micro Devices Inc",
+      "21",
+      "2.39"
+    ],
+    [
+      "JNJ US EQUITY",
+      "Johnson & Johnson",
+      "41",
+      "2.24"
+    ],
+    [
+      "AMAT US EQUITY",
+      "Applied Materials Inc",
+      "15",
+      "2.20"
+    ],
+    [
+      "MU US EQUITY",
+      "Micron Technology Inc",
+      "9",
+      "2.17"
+    ],
+    [
+      "UNH US EQUITY",
+      "UnitedHealth Group Inc",
+      "24",
+      "2.13"
+    ],
+    [
+      "STX US EQUITY",
+      "Seagate Technology Holdings PLC",
+      "10",
+      "2.04"
+    ],
+    [
+      "TSM US EQUITY",
+      "Taiwan Semiconductor Manufacturing Co Ltd",
+      "19",
+      "1.82"
+    ],
+    [
+      "LLY US EQUITY",
+      "Eli Lilly & Co",
+      "7",
+      "1.82"
+    ],
+    [
+      "DELL US EQUITY",
+      "Dell Technologies Inc",
+      "20",
+      "1.75"
+    ],
+    [
+      "ARM US EQUITY",
+      "ARM Holdings PLC",
+      "24",
+      "1.74"
+    ],
+    [
+      "JPM US EQUITY",
+      "JPMorgan Chase & Co",
+      "24",
+      "1.67"
+    ],
+    [
+      "NEE US EQUITY",
+      "NextEra Energy Inc",
+      "81",
+      "1.52"
+    ],
+    [
+      "TSLA US EQUITY",
+      "Tesla Inc",
+      "16",
+      "1.39"
+    ],
+    [
+      "WDC US EQUITY",
+      "Western Digital Corp",
+      "10",
+      "1.38"
+    ],
+    [
+      "KO US EQUITY",
+      "Coca-Cola Co/The",
+      "75",
+      "1.31"
+    ],
+    [
+      "CVX US EQUITY",
+      "Chevron Corp",
+      "35",
+      "1.24"
+    ],
+    [
+      "VRT US EQUITY",
+      "Vertiv Holdings Co",
+      "19",
+      "1.23"
+    ],
+    [
+      "CSCO US EQUITY",
+      "Cisco Systems Inc",
+      "44",
+      "1.09"
+    ],
+    [
+      "INTC US EQUITY",
+      "Intel Corp",
+      "37",
+      "1.03"
+    ],
+    [
+      "COST US EQUITY",
+      "Costco Wholesale Corp",
+      "5",
+      "1.00"
+    ],
+    [
+      "HOOD US EQUITY",
+      "Robinhood Markets Inc",
+      "45",
+      "0.97"
+    ],
+    [
+      "META US EQUITY",
+      "Meta Platforms Inc",
+      "8",
+      "0.95"
+    ],
+    [
+      "GE US EQUITY",
+      "General Electric Co",
+      "12",
+      "0.95"
+    ],
+    [
+      "V US EQUITY",
+      "Visa Inc",
+      "13",
+      "0.94"
+    ],
+    [
+      "GEV US EQUITY",
+      "GE Vernova Inc",
+      "4",
+      "0.93"
+    ],
+    [
+      "MRK US EQUITY",
+      "Merck & Co Inc",
+      "33",
+      "0.90"
+    ],
+    [
+      "MS US EQUITY",
+      "Morgan Stanley",
+      "20",
+      "0.89"
+    ],
+    [
+      "TER US EQUITY",
+      "Teradyne Inc",
+      "9",
+      "0.88"
+    ],
+    [
+      "LIN US EQUITY",
+      "Linde PLC",
+      "7",
+      "0.76"
+    ],
+    [
+      "SBUX US EQUITY",
+      "Starbucks Corp",
+      "33",
+      "0.72"
+    ],
+    [
+      "FSLR US EQUITY",
+      "First Solar Inc",
+      "14",
+      "0.69"
+    ],
+    [
+      "DDOG US EQUITY",
+      "Datadog Inc",
+      "13",
+      "0.68"
+    ],
+    [
+      "WMT US EQUITY",
+      "Walmart Inc",
+      "27",
+      "0.65"
+    ],
+    [
+      "GS US EQUITY",
+      "Goldman Sachs Group Inc/The",
+      "3",
+      "0.65"
+    ],
+    [
+      "SNOW US EQUITY",
+      "Snowflake Inc",
+      "12",
+      "0.64"
+    ],
+    [
+      "PEP US EQUITY",
+      "PepsiCo Inc",
+      "20",
+      "0.59"
+    ],
+    [
+      "CEG US EQUITY",
+      "Constellation Energy Corp",
+      "10",
+      "0.55"
+    ],
+    [
+      "TXN US EQUITY",
+      "Texas Instruments Inc",
+      "9",
+      "0.54"
+    ],
+    [
+      "LITE US EQUITY",
+      "Lumentum Holdings Inc",
+      "3",
+      "0.54"
+    ],
+    [
+      "PG US EQUITY",
+      "Procter & Gamble Co/The",
+      "17",
+      "0.53"
+    ],
+    [
+      "LUV US EQUITY",
+      "Southwest Airlines Co",
+      "48",
+      "0.52"
+    ],
+    [
+      "MCD US EQUITY",
+      "McDonalds Corp",
+      "9",
+      "0.51"
+    ],
+    [
+      "VZ US EQUITY",
+      "Verizon Communications Inc",
+      "53",
+      "0.49"
+    ],
+    [
+      "ABBV US EQUITY",
+      "AbbVie Inc",
+      "7",
+      "0.38"
+    ]
+  ],
+  "TIME K바이오액티브": [
+    [
+      "068270",
+      "셀트리온",
+      "495",
+      "11.98"
+    ],
+    [
+      "196170",
+      "알테오젠",
+      "219",
+      "11.04"
+    ],
+    [
+      "207940",
+      "삼성바이오로직스",
+      "40",
+      "7.77"
+    ],
+    [
+      "226950",
+      "올릭스",
+      "348",
+      "7.56"
+    ],
+    [
+      "128940",
+      "한미약품",
+      "120",
+      "6.66"
+    ],
+    [
+      "141080",
+      "리가켐바이오",
+      "299",
+      "6.26"
+    ],
+    [
+      "237690",
+      "에스티팜",
+      "250",
+      "4.61"
+    ],
+    [
+      "347850",
+      "디앤디파마텍",
+      "296",
+      "3.62"
+    ],
+    [
+      "298380",
+      "에이비엘바이오",
+      "250",
+      "3.47"
+    ],
+    [
+      "397030",
+      "에이프릴바이오",
+      "476",
+      "2.70"
+    ],
+    [
+      "0126Z0",
+      "삼성에피스홀딩스",
+      "40",
+      "2.40"
+    ],
+    [
+      "068760",
+      "셀트리온제약",
+      "399",
+      "2.28"
+    ],
+    [
+      "458870",
+      "씨어스",
+      "401",
+      "2.20"
+    ],
+    [
+      "028300",
+      "HLB",
+      "300",
+      "2.18"
+    ],
+    [
+      "000100",
+      "유한양행",
+      "201",
+      "1.97"
+    ],
+    [
+      "476830",
+      "알지노믹스",
+      "340",
+      "1.95"
+    ],
+    [
+      "145020",
+      "휴젤",
+      "50",
+      "1.84"
+    ],
+    [
+      "009420",
+      "한올바이오파마",
+      "200",
+      "1.74"
+    ],
+    [
+      "456160",
+      "지투지바이오",
+      "300",
+      "1.74"
+    ],
+    [
+      "310210",
+      "보로노이",
+      "60",
+      "1.56"
+    ],
+    [
+      "039200",
+      "오스코텍",
+      "301",
+      "1.52"
+    ],
+    [
+      "214450",
+      "파마리서치",
+      "30",
+      "1.52"
+    ],
+    [
+      "389470",
+      "인벤티지랩",
+      "275",
+      "1.52"
+    ],
+    [
+      "087010",
+      "펩트론",
+      "40",
+      "1.03"
+    ],
+    [
+      "491000",
+      "리브스메드",
+      "201",
+      "1.00"
+    ],
+    [
+      "214370",
+      "케어젠",
+      "102",
+      "0.98"
+    ],
+    [
+      "249420",
+      "일동제약",
+      "399",
+      "0.94"
+    ],
+    [
+      "098460",
+      "고영",
+      "194",
+      "0.87"
+    ],
+    [
+      "475830",
+      "오름테라퓨틱",
+      "99",
+      "0.82"
+    ],
+    [
+      "0009K0",
+      "에임드바이오",
+      "203",
+      "0.71"
+    ],
+    [
+      "007390",
+      "네이처셀",
+      "201",
+      "0.65"
+    ],
+    [
+      "174900",
+      "앱클론",
+      "150",
+      "0.58"
+    ],
+    [
+      "195940",
+      "HK이노엔",
+      "102",
+      "0.58"
+    ],
+    [
+      "475960",
+      "토모큐브",
+      "100",
+      "0.51"
+    ],
+    [
+      "358570",
+      "지아이이노베이션",
+      "200",
+      "0.29"
+    ]
+  ],
+  "TIME 차이나AI테크액티브": [
+    [
+      "2513 HK EQUITY",
+      "Knowledge Atlas Technology JSC Ltd",
+      "312",
+      "9.06"
+    ],
+    [
+      "2383 TT EQUITY",
+      "Elite Material Co Ltd",
+      "294",
+      "5.84"
+    ],
+    [
+      "300502 CH EQUITY",
+      "Eoptolink Technology Inc Ltd",
+      "584",
+      "5.57"
+    ],
+    [
+      "300308 CH EQUITY",
+      "Zhongji Innolight Co Ltd",
+      "263",
+      "5.49"
+    ],
+    [
+      "1347 HK EQUITY",
+      "Hua Hong Grace Semiconductor Ltd",
+      "1,612",
+      "4.88"
+    ],
+    [
+      "2408 TT EQUITY",
+      "Nanya Technology Corp",
+      "2,497",
+      "4.13"
+    ],
+    [
+      "688256 CH EQUITY",
+      "Cambricon Technologies Corp Ltd",
+      "148",
+      "3.75"
+    ],
+    [
+      "3481 TT EQUITY",
+      "Innolux Corp",
+      "15,170",
+      "3.71"
+    ],
+    [
+      "2454 TT EQUITY",
+      "MediaTek Inc",
+      "257",
+      "3.67"
+    ],
+    [
+      "6770 TT EQUITY",
+      "Powerchip Semiconductor Manufacturing Corp",
+      "12,710",
+      "3.66"
+    ],
+    [
+      "002371 CH EQUITY",
+      "NAURA Technology Group Co Ltd",
+      "242",
+      "3.56"
+    ],
+    [
+      "2409 TT EQUITY",
+      "AUO Corp",
+      "26,812",
+      "2.99"
+    ],
+    [
+      "3189 TT EQUITY",
+      "Kinsus Interconnect Technology Corp",
+      "959",
+      "2.83"
+    ],
+    [
+      "3711 TT EQUITY",
+      "ASE Technology Holding Co Ltd",
+      "1,202",
+      "2.75"
+    ],
+    [
+      "HCTN6 INDEX",
+      "HSTECH INDEX FUT JUL 2026",
+      "1",
+      "2.61"
+    ],
+    [
+      "981 HK EQUITY",
+      "Semiconductor Manufacturing International Corp",
+      "2,047",
+      "2.57"
+    ],
+    [
+      "688017 CH EQUITY",
+      "Leader Harmonious Drive Systems Co Ltd",
+      "369",
+      "2.28"
+    ],
+    [
+      "688012 CH EQUITY",
+      "Advanced Micro-Fabrication Equipment Inc China",
+      "258",
+      "2.02"
+    ],
+    [
+      "3986 HK EQUITY",
+      "GigaDevice Semiconductor Inc",
+      "109",
+      "2.00"
+    ],
+    [
+      "2330 TT EQUITY",
+      "Taiwan Semiconductor Manufacturing Co Ltd",
+      "231",
+      "2.00"
+    ],
+    [
+      "688041 CH EQUITY",
+      "Hygon Information Technology Co Ltd",
+      "281",
+      "1.71"
+    ],
+    [
+      "3037 TT EQUITY",
+      "Unimicron Technology Corp",
+      "453",
+      "1.61"
+    ],
+    [
+      "100 HK EQUITY",
+      "Minimax Group Inc",
+      "241",
+      "1.53"
+    ],
+    [
+      "002384 CH EQUITY",
+      "Suzhou Dongshan Precision Manufacturing Co Ltd",
+      "347",
+      "1.48"
+    ],
+    [
+      "2345 TT EQUITY",
+      "Accton Technology Corp",
+      "167",
+      "1.43"
+    ],
+    [
+      "301377 CH EQUITY",
+      "Guangdong Dtech Technology Co Ltd",
+      "148",
+      "1.40"
+    ],
+    [
+      "2337 TT EQUITY",
+      "Macronix International Co Ltd",
+      "2,401",
+      "1.39"
+    ],
+    [
+      "3750 HK EQUITY",
+      "Contemporary Amperex Technology Co Ltd",
+      "134",
+      "1.38"
+    ],
+    [
+      "002050 CH EQUITY",
+      "Zhejiang Sanhua Intelligent Controls Co Ltd",
+      "1,679",
+      "1.19"
+    ],
+    [
+      "300124 CH EQUITY",
+      "Shenzhen Inovance Technology Co Ltd",
+      "966",
+      "1.08"
+    ],
+    [
+      "9988 HK EQUITY",
+      "Alibaba Group Holding Ltd",
+      "774",
+      "1.07"
+    ],
+    [
+      "1024 HK EQUITY",
+      "Kuaishou Technology",
+      "1,730",
+      "1.05"
+    ],
+    [
+      "2706 HK EQUITY",
+      "Beijing Haizhi Technology Group Co Ltd",
+      "1,171",
+      "0.90"
+    ],
+    [
+      "9880 HK EQUITY",
+      "UBTech Robotics Corp Ltd",
+      "448",
+      "0.64"
+    ],
+    [
+      "002865 CH EQUITY",
+      "Hainan Drinda New Energy Technology Co Ltd",
+      "607",
+      "0.59"
+    ],
+    [
+      "1772 HK EQUITY",
+      "Ganfeng Lithium Group Co Ltd",
+      "739",
+      "0.54"
+    ],
+    [
+      "700 HK EQUITY",
+      "Tencent Holdings Ltd",
+      "80",
+      "0.50"
+    ],
+    [
+      "2344 TT EQUITY",
+      "Winbond Electronics Corp",
+      "586",
+      "0.43"
+    ],
+    [
+      "2382 TT EQUITY",
+      "Quanta Computer Inc",
+      "323",
+      "0.43"
+    ],
+    [
+      "603119 CH EQUITY",
+      "Zhejiang Rongtai Electric Material Co Ltd",
+      "379",
+      "0.42"
+    ],
+    [
+      "3034 TT EQUITY",
+      "Novatek Microelectronics Corp",
+      "219",
+      "0.42"
+    ],
+    [
+      "HSAI US EQUITY",
+      "Hesai Group",
+      "203",
+      "0.37"
+    ],
+    [
+      "2432 HK EQUITY",
+      "Shenzhen Dobot Corp Ltd",
+      "932",
+      "0.36"
+    ],
+    [
+      "9888 HK EQUITY",
+      "Baidu Inc",
+      "231",
+      "0.36"
+    ],
+    [
+      "002028 CH EQUITY",
+      "Sieyuan Electric Co Ltd",
+      "113",
+      "0.34"
+    ],
+    [
+      "9660 HK EQUITY",
+      "Horizon Robotics",
+      "3,560",
+      "0.22"
+    ],
+    [
+      "PONY US EQUITY",
+      "Pony AI Inc",
+      "258",
+      "0.21"
+    ],
+    [
+      "1810 HK EQUITY",
+      "Xiaomi Corp",
+      "446",
+      "0.14"
+    ]
+  ],
+  "TIME 글로벌AI인공지능액티브": [
+    [
+      "285A JP EQUITY",
+      "Kioxia Holdings Corp",
+      "140",
+      "8.30"
+    ],
+    [
+      "INTC US EQUITY",
+      "Intel Corp",
+      "528",
+      "7.57"
+    ],
+    [
+      "AMD US EQUITY",
+      "Advanced Micro Devices Inc",
+      "116",
+      "6.81"
+    ],
+    [
+      "STX US EQUITY",
+      "Seagate Technology Holdings PLC",
+      "57",
+      "6.01"
+    ],
+    [
+      "WDC US EQUITY",
+      "Western Digital Corp",
+      "75",
+      "5.32"
+    ],
+    [
+      "SNOW US EQUITY",
+      "Snowflake Inc",
+      "144",
+      "3.94"
+    ],
+    [
+      "SNDK US EQUITY",
+      "Sandisk Corp",
+      "16",
+      "3.57"
+    ],
+    [
+      "2513 HK EQUITY",
+      "Knowledge Atlas Technology JSC Ltd",
+      "128",
+      "3.48"
+    ],
+    [
+      "ARM US EQUITY",
+      "ARM Holdings PLC",
+      "93",
+      "3.48"
+    ],
+    [
+      "NQU6 INDEX",
+      "NASDAQ 100 E-MINI INDEX SEPT 2026",
+      "0",
+      "3.27"
+    ],
+    [
+      "6981 JP EQUITY",
+      "Murata Manufacturing Co Ltd",
+      "436",
+      "3.14"
+    ],
+    [
+      "NVDA US EQUITY",
+      "NVIDIA Corp",
+      "147",
+      "3.12"
+    ],
+    [
+      "0043Y0",
+      "TIME 차이나AI테크액티브",
+      "1,491",
+      "2.91"
+    ],
+    [
+      "QCOM US EQUITY",
+      "QUALCOMM Inc",
+      "131",
+      "2.69"
+    ],
+    [
+      "ASML US EQUITY",
+      "ASML Holding NV",
+      "13",
+      "2.66"
+    ],
+    [
+      "NTAP US EQUITY",
+      "NetApp Inc",
+      "156",
+      "2.63"
+    ],
+    [
+      "IBM US EQUITY",
+      "International Business Machines Corp",
+      "85",
+      "2.57"
+    ],
+    [
+      "EBAY US EQUITY",
+      "eBay Inc",
+      "196",
+      "2.36"
+    ],
+    [
+      "AMZN US EQUITY",
+      "Amazon.com Inc",
+      "88",
+      "2.30"
+    ],
+    [
+      "TSM US EQUITY",
+      "Taiwan Semiconductor Manufacturing Co Ltd",
+      "41",
+      "2.03"
+    ],
+    [
+      "NOW US EQUITY",
+      "ServiceNow Inc",
+      "172",
+      "1.87"
+    ],
+    [
+      "ROP US EQUITY",
+      "Roper Technologies Inc",
+      "48",
+      "1.75"
+    ],
+    [
+      "GOOG US EQUITY",
+      "Alphabet Inc",
+      "44",
+      "1.68"
+    ],
+    [
+      "MELI US EQUITY",
+      "MercadoLibre Inc",
+      "9",
+      "1.65"
+    ],
+    [
+      "CRM US EQUITY",
+      "Salesforce Inc",
+      "93",
+      "1.60"
+    ],
+    [
+      "META US EQUITY",
+      "Meta Platforms Inc",
+      "25",
+      "1.53"
+    ],
+    [
+      "9988 HK EQUITY",
+      "Alibaba Group Holding Ltd",
+      "1,150",
+      "1.48"
+    ],
+    [
+      "DELL US EQUITY",
+      "Dell Technologies Inc",
+      "32",
+      "1.44"
+    ],
+    [
+      "PDD US EQUITY",
+      "PDD Holdings Inc",
+      "165",
+      "1.37"
+    ],
+    [
+      "ACN US EQUITY",
+      "Accenture PLC",
+      "90",
+      "1.22"
+    ],
+    [
+      "MSTR US EQUITY",
+      "Strategy Inc",
+      "110",
+      "1.11"
+    ],
+    [
+      "SAP US EQUITY",
+      "SAP SE",
+      "64",
+      "1.08"
+    ],
+    [
+      "COIN US EQUITY",
+      "Coinbase Global Inc",
+      "53",
+      "0.87"
+    ],
+    [
+      "CRCL US EQUITY",
+      "Circle Internet Group Inc",
+      "103",
+      "0.85"
+    ],
+    [
+      "700 HK EQUITY",
+      "Tencent Holdings Ltd",
+      "113",
+      "0.66"
+    ]
+  ],
+  "TIME Korea플러스배당액티브": [
+    [
+      "000660",
+      "SK하이닉스",
+      "51",
+      "19.31"
+    ],
+    [
+      "005930",
+      "삼성전자",
+      "305",
+      "14.55"
+    ],
+    [
+      "402340",
+      "SK스퀘어",
+      "20",
+      "4.85"
+    ],
+    [
+      "009150",
+      "삼성전기",
+      "14",
+      "4.37"
+    ],
+    [
+      "003230",
+      "삼양식품",
+      "24",
+      "3.84"
+    ],
+    [
+      "028260",
+      "삼성물산",
+      "55",
+      "3.68"
+    ],
+    [
+      "034730",
+      "SK",
+      "30",
+      "3.57"
+    ],
+    [
+      "039490",
+      "키움증권",
+      "70",
+      "3.43"
+    ],
+    [
+      "005940",
+      "NH투자증권",
+      "750",
+      "3.15"
+    ],
+    [
+      "138040",
+      "메리츠금융지주",
+      "200",
+      "3.02"
+    ],
+    [
+      "071050",
+      "한국금융지주",
+      "90",
+      "2.84"
+    ],
+    [
+      "032830",
+      "삼성생명",
+      "49",
+      "2.81"
+    ],
+    [
+      "016360",
+      "삼성증권",
+      "180",
+      "2.79"
+    ],
+    [
+      "105560",
+      "KB금융",
+      "99",
+      "2.25"
+    ],
+    [
+      "316140",
+      "우리금융지주",
+      "498",
+      "2.06"
+    ],
+    [
+      "005380",
+      "현대차",
+      "29",
+      "2.05"
+    ],
+    [
+      "005830",
+      "DB손해보험",
+      "100",
+      "1.91"
+    ],
+    [
+      "086790",
+      "하나금융지주",
+      "100",
+      "1.64"
+    ],
+    [
+      "138930",
+      "BNK금융지주",
+      "646",
+      "1.57"
+    ],
+    [
+      "003530",
+      "한화투자증권",
+      "1,798",
+      "1.25"
+    ],
+    [
+      "069960",
+      "현대백화점",
+      "45",
+      "1.25"
+    ],
+    [
+      "033780",
+      "KT&G",
+      "50",
+      "1.21"
+    ],
+    [
+      "000880",
+      "한화",
+      "80",
+      "1.14"
+    ],
+    [
+      "006260",
+      "LS",
+      "19",
+      "0.99"
+    ],
+    [
+      "024110",
+      "기업은행",
+      "343",
+      "0.98"
+    ],
+    [
+      "003470",
+      "유안타증권",
+      "1,494",
+      "0.95"
+    ],
+    [
+      "006800",
+      "미래에셋증권",
+      "148",
+      "0.90"
+    ],
+    [
+      "005387",
+      "현대차2우B",
+      "29",
+      "0.89"
+    ],
+    [
+      "000150",
+      "두산",
+      "4",
+      "0.85"
+    ],
+    [
+      "055550",
+      "신한지주",
+      "60",
+      "0.82"
+    ],
+    [
+      "030200",
+      "KT",
+      "99",
+      "0.75"
+    ],
+    [
+      "012330",
+      "현대모비스",
+      "10",
+      "0.71"
+    ],
+    [
+      "001040",
+      "CJ",
+      "30",
+      "0.66"
+    ],
+    [
+      "017670",
+      "SK텔레콤",
+      "50",
+      "0.63"
+    ],
+    [
+      "005490",
+      "POSCO홀딩스",
+      "10",
+      "0.45"
+    ]
+  ],
+  "TIME 미국나스닥100액티브": [
+    [
+      "SNDK US EQUITY",
+      "Sandisk Corp",
+      "24",
+      "6.39"
+    ],
+    [
+      "INTC US EQUITY",
+      "Intel Corp",
+      "308",
+      "5.27"
+    ],
+    [
+      "MU US EQUITY",
+      "Micron Technology Inc",
+      "35",
+      "5.21"
+    ],
+    [
+      "LRCX US EQUITY",
+      "Lam Research Corp",
+      "90",
+      "4.80"
+    ],
+    [
+      "NVDA US EQUITY",
+      "NVIDIA Corp",
+      "174",
+      "4.41"
+    ],
+    [
+      "DELL US EQUITY",
+      "Dell Technologies Inc",
+      "80",
+      "4.31"
+    ],
+    [
+      "AMD US EQUITY",
+      "Advanced Micro Devices Inc",
+      "58",
+      "4.06"
+    ],
+    [
+      "AMAT US EQUITY",
+      "Applied Materials Inc",
+      "37",
+      "3.34"
+    ],
+    [
+      "MRVL US EQUITY",
+      "Marvell Technology Inc",
+      "92",
+      "3.32"
+    ],
+    [
+      "NQU6 INDEX",
+      "NASDAQ 100 E-MINI INDEX SEPT 2026",
+      "0",
+      "3.12"
+    ],
+    [
+      "WDC US EQUITY",
+      "Western Digital Corp",
+      "36",
+      "3.05"
+    ],
+    [
+      "CRDO US EQUITY",
+      "Credo Technology Group Holding Ltd",
+      "95",
+      "3.03"
+    ],
+    [
+      "STX US EQUITY",
+      "Seagate Technology Holdings PLC",
+      "23",
+      "2.89"
+    ],
+    [
+      "NBIS US EQUITY",
+      "Nebius Group NV",
+      "75",
+      "2.54"
+    ],
+    [
+      "ARM US EQUITY",
+      "ARM Holdings PLC",
+      "56",
+      "2.50"
+    ],
+    [
+      "GOOGL US EQUITY",
+      "Alphabet Inc",
+      "53",
+      "2.44"
+    ],
+    [
+      "AAPL US EQUITY",
+      "Apple Inc",
+      "58",
+      "2.12"
+    ],
+    [
+      "AAOI US EQUITY",
+      "Applied Optoelectronics Inc",
+      "108",
+      "2.11"
+    ],
+    [
+      "AVGO US EQUITY",
+      "Broadcom Inc",
+      "40",
+      "1.94"
+    ],
+    [
+      "GLW US EQUITY",
+      "Corning Inc",
+      "57",
+      "1.89"
+    ],
+    [
+      "MSFT US EQUITY",
+      "Microsoft Corp",
+      "38",
+      "1.82"
+    ],
+    [
+      "KLAC US EQUITY",
+      "KLA Corp",
+      "48",
+      "1.74"
+    ],
+    [
+      "TSLA US EQUITY",
+      "Tesla Inc",
+      "32",
+      "1.71"
+    ],
+    [
+      "AMZN US EQUITY",
+      "Amazon.com Inc",
+      "54",
+      "1.68"
+    ],
+    [
+      "HOOD US EQUITY",
+      "Robinhood Markets Inc",
+      "123",
+      "1.63"
+    ],
+    [
+      "ASML US EQUITY",
+      "ASML Holding NV",
+      "6",
+      "1.47"
+    ],
+    [
+      "ALAB US EQUITY",
+      "Astera Labs Inc",
+      "22",
+      "1.30"
+    ],
+    [
+      "VRT US EQUITY",
+      "Vertiv Holdings Co",
+      "32",
+      "1.28"
+    ],
+    [
+      "TER US EQUITY",
+      "Teradyne Inc",
+      "21",
+      "1.26"
+    ],
+    [
+      "SIMO US EQUITY",
+      "Silicon Motion Technology Corp",
+      "29",
+      "1.25"
+    ],
+    [
+      "COIN US EQUITY",
+      "Coinbase Global Inc",
+      "60",
+      "1.18"
+    ],
+    [
+      "CRCL US EQUITY",
+      "Circle Internet Group Inc",
+      "119",
+      "1.17"
+    ],
+    [
+      "SPCX US EQUITY",
+      "Space Exploration Technologies Corp",
+      "54",
+      "1.15"
+    ],
+    [
+      "GEV US EQUITY",
+      "GE Vernova Inc",
+      "7",
+      "1.00"
+    ],
+    [
+      "APP US EQUITY",
+      "AppLovin Corp",
+      "15",
+      "0.97"
+    ],
+    [
+      "LLY US EQUITY",
+      "Eli Lilly & Co",
+      "6",
+      "0.96"
+    ],
+    [
+      "BE US EQUITY",
+      "Bloom Energy Corp",
+      "26",
+      "0.93"
+    ],
+    [
+      "TSM US EQUITY",
+      "Taiwan Semiconductor Manufacturing Co Ltd",
+      "15",
+      "0.89"
+    ],
+    [
+      "QCOM US EQUITY",
+      "QUALCOMM Inc",
+      "36",
+      "0.88"
+    ],
+    [
+      "META US EQUITY",
+      "Meta Platforms Inc",
+      "12",
+      "0.88"
+    ],
+    [
+      "LITE US EQUITY",
+      "Lumentum Holdings Inc",
+      "7",
+      "0.77"
+    ],
+    [
+      "RKLB US EQUITY",
+      "Rocket Lab Corp",
+      "59",
+      "0.75"
+    ],
+    [
+      "MSTR US EQUITY",
+      "Strategy Inc",
+      "57",
+      "0.69"
+    ],
+    [
+      "CRWV US EQUITY",
+      "CoreWeave Inc",
+      "53",
+      "0.66"
+    ],
+    [
+      "ORCL US EQUITY",
+      "Oracle Corp",
+      "26",
+      "0.50"
+    ]
+  ],
+  "TIME 미국배당다우존스액티브": [
+    [
+      "MRK US EQUITY",
+      "Merck & Co Inc",
+      "152",
+      "4.53"
+    ],
+    [
+      "HD US EQUITY",
+      "Home Depot Inc/The",
+      "56",
+      "4.52"
+    ],
+    [
+      "UNH US EQUITY",
+      "UnitedHealth Group Inc",
+      "46",
+      "4.44"
+    ],
+    [
+      "ABT US EQUITY",
+      "Abbott Laboratories",
+      "200",
+      "4.27"
+    ],
+    [
+      "AMGN US EQUITY",
+      "Amgen Inc",
+      "51",
+      "4.23"
+    ],
+    [
+      "KO US EQUITY",
+      "Coca-Cola Co/The",
+      "222",
+      "4.22"
+    ],
+    [
+      "PG US EQUITY",
+      "Procter & Gamble Co/The",
+      "123",
+      "4.20"
+    ],
+    [
+      "PEP US EQUITY",
+      "PepsiCo Inc",
+      "123",
+      "3.93"
+    ],
+    [
+      "VZ US EQUITY",
+      "Verizon Communications Inc",
+      "373",
+      "3.79"
+    ],
+    [
+      "TXN US EQUITY",
+      "Texas Instruments Inc",
+      "55",
+      "3.61"
+    ],
+    [
+      "CVX US EQUITY",
+      "Chevron Corp",
+      "91",
+      "3.53"
+    ],
+    [
+      "COP US EQUITY",
+      "ConocoPhillips",
+      "140",
+      "3.36"
+    ],
+    [
+      "MO US EQUITY",
+      "Altria Group Inc",
+      "190",
+      "3.24"
+    ],
+    [
+      "BMY US EQUITY",
+      "Bristol-Myers Squibb Co",
+      "232",
+      "3.13"
+    ],
+    [
+      "QCOM US EQUITY",
+      "QUALCOMM Inc",
+      "70",
+      "3.04"
+    ],
+    [
+      "LMT US EQUITY",
+      "Lockheed Martin Corp",
+      "23",
+      "2.66"
+    ],
+    [
+      "ADP US EQUITY",
+      "Automatic Data Processing Inc",
+      "45",
+      "2.33"
+    ],
+    [
+      "CMCSA US EQUITY",
+      "Comcast Corp",
+      "411",
+      "2.29"
+    ],
+    [
+      "BX US EQUITY",
+      "Blackstone Inc",
+      "85",
+      "2.25"
+    ],
+    [
+      "UPS US EQUITY",
+      "United Parcel Service Inc",
+      "86",
+      "2.14"
+    ],
+    [
+      "ACN US EQUITY",
+      "Accenture PLC",
+      "70",
+      "2.01"
+    ],
+    [
+      "EOG US EQUITY",
+      "EOG Resources Inc",
+      "61",
+      "1.85"
+    ],
+    [
+      "SLB US EQUITY",
+      "SLB Ltd",
+      "172",
+      "1.84"
+    ],
+    [
+      "TGT US EQUITY",
+      "Target Corp",
+      "52",
+      "1.60"
+    ],
+    [
+      "OKE US EQUITY",
+      "ONEOK Inc",
+      "71",
+      "1.45"
+    ],
+    [
+      "FAST US EQUITY",
+      "Fastenal Co",
+      "132",
+      "1.44"
+    ],
+    [
+      "F US EQUITY",
+      "Ford Motor Co",
+      "428",
+      "1.38"
+    ],
+    [
+      "FITB US EQUITY",
+      "Fifth Third Bancorp",
+      "103",
+      "1.35"
+    ],
+    [
+      "DVN US EQUITY",
+      "Devon Energy Corp",
+      "131",
+      "1.27"
+    ],
+    [
+      "ADM US EQUITY",
+      "Archer-Daniels-Midland Co",
+      "55",
+      "0.97"
+    ],
+    [
+      "KMB US EQUITY",
+      "Kimberly-Clark Corp",
+      "38",
+      "0.96"
+    ],
+    [
+      "ESU6 INDEX",
+      "S&P500 EMINI FUT SEPT 2026",
+      "0",
+      "0.86"
+    ],
+    [
+      "PAYX US EQUITY",
+      "Paychex Inc",
+      "37",
+      "0.85"
+    ],
+    [
+      "CINF US EQUITY",
+      "Cincinnati Financial Corp",
+      "17",
+      "0.73"
+    ],
+    [
+      "HSY US EQUITY",
+      "Hershey Co/The",
+      "17",
+      "0.71"
+    ],
+    [
+      "RF US EQUITY",
+      "Regions Financial Corp",
+      "98",
+      "0.68"
+    ],
+    [
+      "TROW US EQUITY",
+      "T Rowe Price Group Inc",
+      "24",
+      "0.63"
+    ],
+    [
+      "ARES US EQUITY",
+      "Ares Management Corp",
+      "25",
+      "0.62"
+    ],
+    [
+      "DRI US EQUITY",
+      "Darden Restaurants Inc",
+      "12",
+      "0.57"
+    ],
+    [
+      "PFG US EQUITY",
+      "Principal Financial Group Inc",
+      "22",
+      "0.55"
+    ],
+    [
+      "GIS US EQUITY",
+      "General Mills Inc",
+      "55",
+      "0.46"
+    ],
+    [
+      "SNA US EQUITY",
+      "Snap-on Inc",
+      "5",
+      "0.46"
+    ],
+    [
+      "EWBC US EQUITY",
+      "East West Bancorp Inc",
+      "15",
+      "0.45"
+    ],
+    [
+      "BBY US EQUITY",
+      "Best Buy Co Inc",
+      "22",
+      "0.39"
+    ],
+    [
+      "WSO US EQUITY",
+      "Watsco Inc",
+      "4",
+      "0.38"
+    ],
+    [
+      "BR US EQUITY",
+      "Broadridge Financial Solutions Inc",
+      "12",
+      "0.37"
+    ],
+    [
+      "DINO US EQUITY",
+      "HF Sinclair Corp",
+      "19",
+      "0.31"
+    ],
+    [
+      "FNF US EQUITY",
+      "Fidelity National Financial Inc",
+      "27",
+      "0.30"
+    ],
+    [
+      "APA US EQUITY",
+      "APA Corp",
+      "37",
+      "0.28"
+    ],
+    [
+      "SWKS US EQUITY",
+      "Skyworks Solutions Inc",
+      "17",
+      "0.27"
+    ],
+    [
+      "AFG US EQUITY",
+      "American Financial Group Inc/OH",
+      "8",
+      "0.26"
+    ],
+    [
+      "COLB US EQUITY",
+      "Columbia Banking System Inc",
+      "34",
+      "0.25"
+    ],
+    [
+      "BAH US EQUITY",
+      "Booz Allen Hamilton Holding Corp",
+      "14",
+      "0.20"
+    ],
+    [
+      "M US EQUITY",
+      "Macys Inc",
+      "35",
+      "0.20"
+    ],
+    [
+      "ALV US EQUITY",
+      "Autoliv Inc",
+      "7",
+      "0.19"
+    ],
+    [
+      "MSM US EQUITY",
+      "MSC Industrial Direct Co Inc",
+      "5",
+      "0.13"
+    ],
+    [
+      "MTN US EQUITY",
+      "Vail Resorts Inc",
+      "4",
+      "0.12"
+    ],
+    [
+      "NXST US EQUITY",
+      "Nexstar Media Group Inc",
+      "3",
+      "0.12"
+    ],
+    [
+      "MUR US EQUITY",
+      "Murphy Oil Corp",
+      "15",
+      "0.12"
+    ],
+    [
+      "MC US EQUITY",
+      "Moelis & Co",
+      "8",
+      "0.12"
+    ],
+    [
+      "ERIE US EQUITY",
+      "Erie Indemnity Co",
+      "2",
+      "0.11"
+    ],
+    [
+      "CWEN US EQUITY",
+      "Clearway Energy Inc",
+      "13",
+      "0.11"
+    ],
+    [
+      "FHI US EQUITY",
+      "Federated Hermes Inc",
+      "8",
+      "0.10"
+    ],
+    [
+      "CVBF US EQUITY",
+      "CVB Financial Corp",
+      "19",
+      "0.10"
+    ],
+    [
+      "KFY US EQUITY",
+      "Korn Ferry",
+      "6",
+      "0.10"
+    ],
+    [
+      "PAG US EQUITY",
+      "Penske Automotive Group Inc",
+      "2",
+      "0.08"
+    ],
+    [
+      "RHI US EQUITY",
+      "Robert Half Inc",
+      "10",
+      "0.08"
+    ],
+    [
+      "NBHC US EQUITY",
+      "National Bank Holdings Corp",
+      "6",
+      "0.06"
+    ],
+    [
+      "WU US EQUITY",
+      "Western Union Co/The",
+      "33",
+      "0.06"
+    ],
+    [
+      "OFG US EQUITY",
+      "OFG Bancorp",
+      "5",
+      "0.06"
+    ],
+    [
+      "MZTI US EQUITY",
+      "Marzetti Company/The",
+      "2",
+      "0.05"
+    ],
+    [
+      "CNS US EQUITY",
+      "Cohen & Steers Inc",
+      "3",
+      "0.05"
+    ],
+    [
+      "FLO US EQUITY",
+      "Flowers Foods Inc",
+      "28",
+      "0.05"
+    ],
+    [
+      "BANR US EQUITY",
+      "Banner Corp",
+      "3",
+      "0.05"
+    ],
+    [
+      "AGM US EQUITY",
+      "Federal Agricultural Mortgage Corp",
+      "1",
+      "0.05"
+    ],
+    [
+      "STBA US EQUITY",
+      "S&T Bancorp Inc",
+      "4",
+      "0.05"
+    ],
+    [
+      "GABC US EQUITY",
+      "German American Bancorp Inc",
+      "4",
+      "0.04"
+    ],
+    [
+      "CHCO US EQUITY",
+      "City Holding Co",
+      "1",
+      "0.03"
+    ],
+    [
+      "IPAR US EQUITY",
+      "Interparfums Inc",
+      "1",
+      "0.03"
+    ]
+  ],
+  "TIME 미국나스닥100채권혼합50액티브": [
+    [
+      "190620",
+      "ACE 단기통안채",
+      "1,139",
+      "15.57"
+    ],
+    [
+      "272580",
+      "TIGER 단기채권액티브",
+      "1,980",
+      "15.13"
+    ],
+    [
+      "610064",
+      "메리츠 KAP 통안채 6개월 ETN",
+      "1,212",
+      "8.95"
+    ],
+    [
+      "122260",
+      "KIWOOM 통안채1년",
+      "255",
+      "3.56"
+    ],
+    [
+      "196230",
+      "RISE 단기통안채",
+      "207",
+      "3.25"
+    ],
+    [
+      "SNDK US EQUITY",
+      "Sandisk Corp",
+      "7",
+      "2.99"
+    ],
+    [
+      "MU US EQUITY",
+      "Micron Technology Inc",
+      "11",
+      "2.63"
+    ],
+    [
+      "NVDA US EQUITY",
+      "NVIDIA Corp",
+      "55",
+      "2.24"
+    ],
+    [
+      "LRCX US EQUITY",
+      "Lam Research Corp",
+      "26",
+      "2.23"
+    ],
+    [
+      "DELL US EQUITY",
+      "Dell Technologies Inc",
+      "24",
+      "2.08"
+    ],
+    [
+      "INTC US EQUITY",
+      "Intel Corp",
+      "75",
+      "2.06"
+    ],
+    [
+      "AMAT US EQUITY",
+      "Applied Materials Inc",
+      "13",
+      "1.88"
+    ],
+    [
+      "GOOGL US EQUITY",
+      "Alphabet Inc",
+      "22",
+      "1.62"
+    ],
+    [
+      "AMD US EQUITY",
+      "Advanced Micro Devices Inc",
+      "14",
+      "1.58"
+    ],
+    [
+      "MRVL US EQUITY",
+      "Marvell Technology Inc",
+      "27",
+      "1.56"
+    ],
+    [
+      "WDC US EQUITY",
+      "Western Digital Corp",
+      "11",
+      "1.50"
+    ],
+    [
+      "CRDO US EQUITY",
+      "Credo Technology Group Holding Ltd",
+      "25",
+      "1.28"
+    ],
+    [
+      "AVGO US EQUITY",
+      "Broadcom Inc",
+      "16",
+      "1.24"
+    ],
+    [
+      "ARM US EQUITY",
+      "ARM Holdings PLC",
+      "17",
+      "1.22"
+    ],
+    [
+      "STX US EQUITY",
+      "Seagate Technology Holdings PLC",
+      "6",
+      "1.21"
+    ],
+    [
+      "MSFT US EQUITY",
+      "Microsoft Corp",
+      "15",
+      "1.15"
+    ],
+    [
+      "TSLA US EQUITY",
+      "Tesla Inc",
+      "13",
+      "1.12"
+    ],
+    [
+      "AAOI US EQUITY",
+      "Applied Optoelectronics Inc",
+      "35",
+      "1.10"
+    ],
+    [
+      "NBIS US EQUITY",
+      "Nebius Group NV",
+      "17",
+      "0.93"
+    ],
+    [
+      "ALAB US EQUITY",
+      "Astera Labs Inc",
+      "9",
+      "0.86"
+    ],
+    [
+      "GLW US EQUITY",
+      "Corning Inc",
+      "16",
+      "0.85"
+    ],
+    [
+      "AMZN US EQUITY",
+      "Amazon.com Inc",
+      "17",
+      "0.85"
+    ],
+    [
+      "KLAC US EQUITY",
+      "KLA Corp",
+      "14",
+      "0.81"
+    ],
+    [
+      "ASML US EQUITY",
+      "ASML Holding NV",
+      "2",
+      "0.79"
+    ],
+    [
+      "LLY US EQUITY",
+      "Eli Lilly & Co",
+      "3",
+      "0.77"
+    ],
+    [
+      "TSM US EQUITY",
+      "Taiwan Semiconductor Manufacturing Co Ltd",
+      "8",
+      "0.76"
+    ],
+    [
+      "QCOM US EQUITY",
+      "QUALCOMM Inc",
+      "19",
+      "0.75"
+    ],
+    [
+      "META US EQUITY",
+      "Meta Platforms Inc",
+      "6",
+      "0.70"
+    ],
+    [
+      "HOOD US EQUITY",
+      "Robinhood Markets Inc",
+      "32",
+      "0.68"
+    ],
+    [
+      "TER US EQUITY",
+      "Teradyne Inc",
+      "7",
+      "0.68"
+    ],
+    [
+      "AAPL US EQUITY",
+      "Apple Inc",
+      "11",
+      "0.65"
+    ],
+    [
+      "VRT US EQUITY",
+      "Vertiv Holdings Co",
+      "10",
+      "0.64"
+    ],
+    [
+      "PEP US EQUITY",
+      "PepsiCo Inc",
+      "20",
+      "0.58"
+    ],
+    [
+      "DDOG US EQUITY",
+      "Datadog Inc",
+      "11",
+      "0.57"
+    ],
+    [
+      "CSCO US EQUITY",
+      "Cisco Systems Inc",
+      "23",
+      "0.57"
+    ],
+    [
+      "SPCX US EQUITY",
+      "Space Exploration Technologies Corp",
+      "16",
+      "0.55"
+    ],
+    [
+      "APP US EQUITY",
+      "AppLovin Corp",
+      "5",
+      "0.52"
+    ],
+    [
+      "SIMO US EQUITY",
+      "Silicon Motion Technology Corp",
+      "7",
+      "0.49"
+    ],
+    [
+      "GEV US EQUITY",
+      "GE Vernova Inc",
+      "2",
+      "0.46"
+    ],
+    [
+      "SBUX US EQUITY",
+      "Starbucks Corp",
+      "20",
+      "0.43"
+    ],
+    [
+      "MAR US EQUITY",
+      "Marriott International Inc/MD",
+      "5",
+      "0.39"
+    ],
+    [
+      "CRWV US EQUITY",
+      "CoreWeave Inc",
+      "17",
+      "0.34"
+    ],
+    [
+      "ON US EQUITY",
+      "ON Semiconductor Corp",
+      "17",
+      "0.31"
+    ],
+    [
+      "ORCL US EQUITY",
+      "Oracle Corp",
+      "9",
+      "0.28"
+    ]
+  ],
+  "TIME 코스피액티브": [
+    [
+      "000660",
+      "SK하이닉스",
+      "323",
+      "26.26"
+    ],
+    [
+      "005930",
+      "삼성전자",
+      "1,694",
+      "17.36"
+    ],
+    [
+      "009150",
+      "삼성전기",
+      "116",
+      "7.77"
+    ],
+    [
+      "402340",
+      "SK스퀘어",
+      "80",
+      "4.17"
+    ],
+    [
+      "003230",
+      "삼양식품",
+      "110",
+      "3.78"
+    ],
+    [
+      "278470",
+      "에이피알",
+      "310",
+      "3.67"
+    ],
+    [
+      "034730",
+      "SK",
+      "140",
+      "3.58"
+    ],
+    [
+      "006400",
+      "삼성SDI",
+      "214",
+      "3.20"
+    ],
+    [
+      "373220",
+      "LG에너지솔루션",
+      "232",
+      "2.58"
+    ],
+    [
+      "000150",
+      "두산",
+      "53",
+      "2.42"
+    ],
+    [
+      "105560",
+      "KB금융",
+      "478",
+      "2.33"
+    ],
+    [
+      "004170",
+      "신세계",
+      "100",
+      "2.32"
+    ],
+    [
+      "298040",
+      "효성중공업",
+      "18",
+      "1.90"
+    ],
+    [
+      "028260",
+      "삼성물산",
+      "128",
+      "1.84"
+    ],
+    [
+      "069960",
+      "현대백화점",
+      "206",
+      "1.22"
+    ],
+    [
+      "196170",
+      "알테오젠",
+      "110",
+      "1.22"
+    ],
+    [
+      "062040",
+      "산일전기",
+      "150",
+      "1.10"
+    ],
+    [
+      "071050",
+      "한국금융지주",
+      "160",
+      "1.09"
+    ],
+    [
+      "290650",
+      "엘앤씨바이오",
+      "379",
+      "1.05"
+    ],
+    [
+      "005380",
+      "현대차",
+      "65",
+      "0.99"
+    ],
+    [
+      "005490",
+      "POSCO홀딩스",
+      "100",
+      "0.97"
+    ],
+    [
+      "055550",
+      "신한지주",
+      "329",
+      "0.97"
+    ],
+    [
+      "017670",
+      "SK텔레콤",
+      "351",
+      "0.95"
+    ],
+    [
+      "000810",
+      "삼성화재",
+      "50",
+      "0.95"
+    ],
+    [
+      "006260",
+      "LS",
+      "80",
+      "0.90"
+    ],
+    [
+      "079550",
+      "LIG디펜스앤에어로스페이스",
+      "39",
+      "0.86"
+    ],
+    [
+      "016360",
+      "삼성증권",
+      "250",
+      "0.83"
+    ],
+    [
+      "161890",
+      "한국콜마",
+      "265",
+      "0.81"
+    ],
+    [
+      "033780",
+      "KT&G",
+      "140",
+      "0.73"
+    ],
+    [
+      "483650",
+      "달바글로벌",
+      "87",
+      "0.62"
+    ],
+    [
+      "010120",
+      "LS ELECTRIC",
+      "80",
+      "0.58"
+    ],
+    [
+      "066970",
+      "엘앤에프",
+      "90",
+      "0.31"
+    ]
+  ],
+  "TIME 글로벌소비트렌드액티브": [
+    [
+      "AAPL US EQUITY",
+      "Apple Inc",
+      "85",
+      "5.28"
+    ],
+    [
+      "NVDA US EQUITY",
+      "NVIDIA Corp",
+      "120",
+      "5.15"
+    ],
+    [
+      "GOOGL US EQUITY",
+      "Alphabet Inc",
+      "62",
+      "4.83"
+    ],
+    [
+      "MSFT US EQUITY",
+      "Microsoft Corp",
+      "58",
+      "4.71"
+    ],
+    [
+      "AMZN US EQUITY",
+      "Amazon.com Inc",
+      "89",
+      "4.71"
+    ],
+    [
+      "META US EQUITY",
+      "Meta Platforms Inc",
+      "32",
+      "3.97"
+    ],
+    [
+      "WMT US EQUITY",
+      "Walmart Inc",
+      "123",
+      "3.11"
+    ],
+    [
+      "700 HK EQUITY",
+      "Tencent Holdings Ltd",
+      "237",
+      "2.80"
+    ],
+    [
+      "NFLX US EQUITY",
+      "Netflix Inc",
+      "139",
+      "2.26"
+    ],
+    [
+      "DIS US EQUITY",
+      "Walt Disney Co/The",
+      "91",
+      "1.98"
+    ],
+    [
+      "9988 HK EQUITY",
+      "Alibaba Group Holding Ltd",
+      "706",
+      "1.84"
+    ],
+    [
+      "9999 HK EQUITY",
+      "NetEase Inc",
+      "318",
+      "1.78"
+    ],
+    [
+      "SHOP CT EQUITY",
+      "Shopify Inc",
+      "65",
+      "1.64"
+    ],
+    [
+      "6758 JP EQUITY",
+      "Sony Group Corp",
+      "354",
+      "1.59"
+    ],
+    [
+      "SE US EQUITY",
+      "Sea Ltd",
+      "72",
+      "1.47"
+    ],
+    [
+      "EA US EQUITY",
+      "Electronic Arts Inc",
+      "30",
+      "1.36"
+    ],
+    [
+      "CMCSA US EQUITY",
+      "Comcast Corp",
+      "253",
+      "1.35"
+    ],
+    [
+      "BKNG US EQUITY",
+      "Booking Holdings Inc",
+      "32",
+      "1.29"
+    ],
+    [
+      "TTWO US EQUITY",
+      "Take-Two Interactive Software Inc",
+      "23",
+      "1.25"
+    ],
+    [
+      "TGT US EQUITY",
+      "Target Corp",
+      "42",
+      "1.24"
+    ],
+    [
+      "ABNB US EQUITY",
+      "Airbnb Inc",
+      "36",
+      "1.17"
+    ],
+    [
+      "LYV US EQUITY",
+      "Live Nation Entertainment Inc",
+      "29",
+      "1.17"
+    ],
+    [
+      "MELI US EQUITY",
+      "MercadoLibre Inc",
+      "3",
+      "1.11"
+    ],
+    [
+      "9888 HK EQUITY",
+      "Baidu Inc",
+      "374",
+      "1.10"
+    ],
+    [
+      "NKE US EQUITY",
+      "NIKE Inc",
+      "115",
+      "1.05"
+    ],
+    [
+      "EBAY US EQUITY",
+      "eBay Inc",
+      "43",
+      "1.05"
+    ],
+    [
+      "SPOT US EQUITY",
+      "Spotify Technology SA",
+      "10",
+      "1.02"
+    ],
+    [
+      "XYZ US EQUITY",
+      "Block Inc",
+      "59",
+      "1.01"
+    ],
+    [
+      "FWONK US EQUITY",
+      "Liberty Media Corp-Liberty Formula One",
+      "49",
+      "1.01"
+    ],
+    [
+      "WBD US EQUITY",
+      "Warner Bros Discovery Inc",
+      "166",
+      "0.99"
+    ],
+    [
+      "MGM US EQUITY",
+      "MGM Resorts International",
+      "89",
+      "0.97"
+    ],
+    [
+      "KR US EQUITY",
+      "Kroger Co/The",
+      "75",
+      "0.92"
+    ],
+    [
+      "DKS US EQUITY",
+      "Dicks Sporting Goods Inc",
+      "18",
+      "0.92"
+    ],
+    [
+      "ZM US EQUITY",
+      "Zoom Communications Inc",
+      "47",
+      "0.89"
+    ],
+    [
+      "TKO US EQUITY",
+      "TKO Group Holdings Inc",
+      "19",
+      "0.89"
+    ],
+    [
+      "1024 HK EQUITY",
+      "Kuaishou Technology",
+      "754",
+      "0.87"
+    ],
+    [
+      "LVS US EQUITY",
+      "Las Vegas Sands Corp",
+      "81",
+      "0.83"
+    ],
+    [
+      "9618 HK EQUITY",
+      "JD.com Inc",
+      "297",
+      "0.83"
+    ],
+    [
+      "PDD US EQUITY",
+      "PDD Holdings Inc",
+      "49",
+      "0.83"
+    ],
+    [
+      "EXPE US EQUITY",
+      "Expedia Group Inc",
+      "14",
+      "0.82"
+    ],
+    [
+      "ULTA US EQUITY",
+      "Ulta Beauty Inc",
+      "8",
+      "0.81"
+    ],
+    [
+      "CCL US EQUITY",
+      "Carnival Corp Ltd",
+      "125",
+      "0.80"
+    ],
+    [
+      "PSKY US EQUITY",
+      "Paramount Skydance Corp",
+      "353",
+      "0.76"
+    ],
+    [
+      "SPHR US EQUITY",
+      "Sphere Entertainment Co",
+      "19",
+      "0.72"
+    ],
+    [
+      "M US EQUITY",
+      "Macys Inc",
+      "126",
+      "0.68"
+    ],
+    [
+      "CVNA US EQUITY",
+      "Carvana Co",
+      "48",
+      "0.67"
+    ],
+    [
+      "ETSY US EQUITY",
+      "Etsy Inc",
+      "37",
+      "0.65"
+    ],
+    [
+      "2020 HK EQUITY",
+      "ANTA Sports Products Ltd",
+      "318",
+      "0.64"
+    ],
+    [
+      "MTCH US EQUITY",
+      "Match Group Inc",
+      "74",
+      "0.63"
+    ],
+    [
+      "MSGS US EQUITY",
+      "Madison Square Garden Sports Corp",
+      "7",
+      "0.62"
+    ],
+    [
+      "WMG US EQUITY",
+      "Warner Music Group Corp",
+      "94",
+      "0.55"
+    ],
+    [
+      "LULU US EQUITY",
+      "Lululemon Athletica Inc",
+      "21",
+      "0.53"
+    ],
+    [
+      "JOYY US EQUITY",
+      "JOYY Inc",
+      "35",
+      "0.51"
+    ],
+    [
+      "9901 HK EQUITY",
+      "New Oriental Education & Technology Group Inc",
+      "488",
+      "0.50"
+    ],
+    [
+      "PTON US EQUITY",
+      "Peloton Interactive Inc",
+      "382",
+      "0.49"
+    ],
+    [
+      "LRN US EQUITY",
+      "Stride Inc",
+      "25",
+      "0.48"
+    ],
+    [
+      "SNAP US EQUITY",
+      "Snap Inc",
+      "486",
+      "0.47"
+    ],
+    [
+      "DECK US EQUITY",
+      "Deckers Outdoor Corp",
+      "21",
+      "0.47"
+    ],
+    [
+      "1698 HK EQUITY",
+      "Tencent Music Entertainment Group",
+      "506",
+      "0.47"
+    ],
+    [
+      "GME US EQUITY",
+      "GameStop Corp",
+      "95",
+      "0.46"
+    ],
+    [
+      "GRND US EQUITY",
+      "Grindr Inc",
+      "141",
+      "0.45"
+    ],
+    [
+      "MSGE US EQUITY",
+      "Madison Square Garden Entertainment Corp",
+      "24",
+      "0.43"
+    ],
+    [
+      "ONON US EQUITY",
+      "On Holding AG",
+      "53",
+      "0.41"
+    ],
+    [
+      "9626 HK EQUITY",
+      "Bilibili Inc",
+      "111",
+      "0.41"
+    ],
+    [
+      "COLM US EQUITY",
+      "Columbia Sportswear Co",
+      "29",
+      "0.39"
+    ],
+    [
+      "TAL US EQUITY",
+      "TAL Education Group",
+      "187",
+      "0.39"
+    ],
+    [
+      "PLTK US EQUITY",
+      "Playtika Holding Corp",
+      "452",
+      "0.39"
+    ],
+    [
+      "DUOL US EQUITY",
+      "Duolingo Inc",
+      "15",
+      "0.38"
+    ],
+    [
+      "RUM US EQUITY",
+      "RUM Group Inc",
+      "276",
+      "0.38"
+    ],
+    [
+      "LOPE US EQUITY",
+      "Grand Canyon Education Inc",
+      "11",
+      "0.34"
+    ],
+    [
+      "ASO US EQUITY",
+      "Academy Sports & Outdoors Inc",
+      "31",
+      "0.32"
+    ],
+    [
+      "CHWY US EQUITY",
+      "Chewy Inc",
+      "73",
+      "0.31"
+    ],
+    [
+      "1797 HK EQUITY",
+      "East Buy Holding Ltd",
+      "471",
+      "0.31"
+    ],
+    [
+      "2331 HK EQUITY",
+      "Li Ning Co Ltd",
+      "676",
+      "0.29"
+    ],
+    [
+      "GHC US EQUITY",
+      "Graham Holdings Co",
+      "1",
+      "0.25"
+    ]
+  ],
+  "TIME 코리아밸류업액티브": [
+    [
+      "000660",
+      "SK하이닉스",
+      "189",
+      "25.69"
+    ],
+    [
+      "402340",
+      "SK스퀘어",
+      "155",
+      "13.49"
+    ],
+    [
+      "005930",
+      "삼성전자",
+      "625",
+      "10.71"
+    ],
+    [
+      "009150",
+      "삼성전기",
+      "41",
+      "4.59"
+    ],
+    [
+      "028260",
+      "삼성물산",
+      "167",
+      "4.01"
+    ],
+    [
+      "032830",
+      "삼성생명",
+      "180",
+      "3.70"
+    ],
+    [
+      "034730",
+      "SK",
+      "84",
+      "3.59"
+    ],
+    [
+      "095610",
+      "테스",
+      "302",
+      "3.22"
+    ],
+    [
+      "319660",
+      "피에스케이",
+      "297",
+      "2.99"
+    ],
+    [
+      "012450",
+      "한화에어로스페이스",
+      "45",
+      "2.30"
+    ],
+    [
+      "055550",
+      "신한지주",
+      "433",
+      "2.13"
+    ],
+    [
+      "005380",
+      "현대차",
+      "82",
+      "2.08"
+    ],
+    [
+      "071050",
+      "한국금융지주",
+      "175",
+      "1.98"
+    ],
+    [
+      "062040",
+      "산일전기",
+      "160",
+      "1.96"
+    ],
+    [
+      "105560",
+      "KB금융",
+      "179",
+      "1.46"
+    ],
+    [
+      "004170",
+      "신세계",
+      "36",
+      "1.39"
+    ],
+    [
+      "278470",
+      "에이피알",
+      "70",
+      "1.38"
+    ],
+    [
+      "000150",
+      "두산",
+      "18",
+      "1.37"
+    ],
+    [
+      "086790",
+      "하나금융지주",
+      "207",
+      "1.22"
+    ],
+    [
+      "011070",
+      "LG이노텍",
+      "23",
+      "1.16"
+    ],
+    [
+      "012330",
+      "현대모비스",
+      "45",
+      "1.15"
+    ],
+    [
+      "183300",
+      "코미코",
+      "212",
+      "1.02"
+    ],
+    [
+      "079550",
+      "LIG디펜스앤에어로스페이스",
+      "26",
+      "0.96"
+    ],
+    [
+      "006260",
+      "LS",
+      "51",
+      "0.96"
+    ],
+    [
+      "267260",
+      "HD현대일렉트릭",
+      "16",
+      "0.80"
+    ],
+    [
+      "290650",
+      "엘앤씨바이오",
+      "168",
+      "0.78"
+    ],
+    [
+      "003230",
+      "삼양식품",
+      "12",
+      "0.69"
+    ],
+    [
+      "016360",
+      "삼성증권",
+      "114",
+      "0.63"
+    ],
+    [
+      "031980",
+      "피에스케이홀딩스",
+      "71",
+      "0.58"
+    ],
+    [
+      "214450",
+      "파마리서치",
+      "27",
+      "0.50"
+    ],
+    [
+      "039490",
+      "키움증권",
+      "23",
+      "0.41"
+    ]
+  ],
+  "TIME K이노베이션액티브": [
+    [
+      "006400",
+      "삼성SDI",
+      "270",
+      "10.08"
+    ],
+    [
+      "196170",
+      "알테오젠",
+      "350",
+      "9.68"
+    ],
+    [
+      "000660",
+      "SK하이닉스",
+      "45",
+      "9.14"
+    ],
+    [
+      "373220",
+      "LG에너지솔루션",
+      "307",
+      "8.52"
+    ],
+    [
+      "005490",
+      "POSCO홀딩스",
+      "299",
+      "7.26"
+    ],
+    [
+      "035420",
+      "NAVER",
+      "379",
+      "5.78"
+    ],
+    [
+      "222800",
+      "심텍",
+      "500",
+      "5.70"
+    ],
+    [
+      "005930",
+      "삼성전자",
+      "199",
+      "5.09"
+    ],
+    [
+      "009150",
+      "삼성전기",
+      "30",
+      "5.02"
+    ],
+    [
+      "420770",
+      "기가비스",
+      "280",
+      "4.12"
+    ],
+    [
+      "001820",
+      "삼화콘덴서",
+      "300",
+      "3.47"
+    ],
+    [
+      "036570",
+      "NC",
+      "150",
+      "2.96"
+    ],
+    [
+      "259960",
+      "크래프톤",
+      "150",
+      "2.71"
+    ],
+    [
+      "080220",
+      "제주반도체",
+      "330",
+      "2.63"
+    ],
+    [
+      "178320",
+      "서진시스템",
+      "550",
+      "2.21"
+    ],
+    [
+      "036930",
+      "주성엔지니어링",
+      "130",
+      "2.00"
+    ],
+    [
+      "056190",
+      "SFA",
+      "1,099",
+      "1.96"
+    ],
+    [
+      "067310",
+      "하나마이크론",
+      "500",
+      "1.91"
+    ],
+    [
+      "007810",
+      "코리아써키트",
+      "249",
+      "1.82"
+    ],
+    [
+      "011070",
+      "LG이노텍",
+      "20",
+      "1.50"
+    ],
+    [
+      "440110",
+      "파두",
+      "199",
+      "1.33"
+    ],
+    [
+      "122640",
+      "예스티",
+      "500",
+      "1.33"
+    ],
+    [
+      "353200",
+      "대덕전자",
+      "99",
+      "1.17"
+    ],
+    [
+      "462350",
+      "이노스페이스",
+      "1,500",
+      "0.97"
+    ],
+    [
+      "356860",
+      "티엘비",
+      "149",
+      "0.94"
+    ]
+  ],
+  "TIME K컬처액티브": [
+    [
+      "003230",
+      "삼양식품",
+      "60",
+      "6.34"
+    ],
+    [
+      "145020",
+      "휴젤",
+      "250",
+      "6.24"
+    ],
+    [
+      "036570",
+      "NC",
+      "230",
+      "5.60"
+    ],
+    [
+      "069960",
+      "현대백화점",
+      "300",
+      "5.49"
+    ],
+    [
+      "278470",
+      "에이피알",
+      "150",
+      "5.46"
+    ],
+    [
+      "263750",
+      "펄어비스",
+      "1,592",
+      "5.45"
+    ],
+    [
+      "214450",
+      "파마리서치",
+      "150",
+      "5.15"
+    ],
+    [
+      "023530",
+      "롯데쇼핑",
+      "300",
+      "4.81"
+    ],
+    [
+      "226950",
+      "올릭스",
+      "301",
+      "4.43"
+    ],
+    [
+      "001040",
+      "CJ",
+      "300",
+      "4.39"
+    ],
+    [
+      "483650",
+      "달바글로벌",
+      "200",
+      "4.38"
+    ],
+    [
+      "352820",
+      "하이브",
+      "240",
+      "4.36"
+    ],
+    [
+      "004170",
+      "신세계",
+      "60",
+      "4.28"
+    ],
+    [
+      "290650",
+      "엘앤씨바이오",
+      "500",
+      "4.27"
+    ],
+    [
+      "041510",
+      "에스엠",
+      "600",
+      "4.01"
+    ],
+    [
+      "035900",
+      "JYP Ent.",
+      "801",
+      "3.89"
+    ],
+    [
+      "122870",
+      "와이지엔터테인먼트",
+      "899",
+      "3.54"
+    ],
+    [
+      "257720",
+      "실리콘투",
+      "1,000",
+      "2.99"
+    ],
+    [
+      "214150",
+      "클래시스",
+      "600",
+      "2.64"
+    ],
+    [
+      "241710",
+      "코스메카코리아",
+      "401",
+      "2.62"
+    ],
+    [
+      "006730",
+      "서부T&D",
+      "2,001",
+      "1.83"
+    ],
+    [
+      "124500",
+      "아이티센글로벌",
+      "701",
+      "1.60"
+    ],
+    [
+      "462870",
+      "시프트업",
+      "500",
+      "1.55"
+    ],
+    [
+      "035760",
+      "CJ ENM",
+      "500",
+      "1.50"
+    ],
+    [
+      "253450",
+      "스튜디오드래곤",
+      "504",
+      "1.01"
+    ]
+  ],
+  "TIME 코스닥액티브": [
+    [
+      "095610",
+      "테스",
+      "236",
+      "10.26"
+    ],
+    [
+      "240810",
+      "원익IPS",
+      "156",
+      "5.48"
+    ],
+    [
+      "064290",
+      "인텍플러스",
+      "549",
+      "5.39"
+    ],
+    [
+      "036930",
+      "주성엔지니어링",
+      "101",
+      "4.24"
+    ],
+    [
+      "420770",
+      "기가비스",
+      "100",
+      "4.02"
+    ],
+    [
+      "196170",
+      "알테오젠",
+      "49",
+      "3.70"
+    ],
+    [
+      "080220",
+      "제주반도체",
+      "150",
+      "3.26"
+    ],
+    [
+      "319660",
+      "피에스케이",
+      "79",
+      "3.24"
+    ],
+    [
+      "222800",
+      "심텍",
+      "99",
+      "3.08"
+    ],
+    [
+      "067310",
+      "하나마이크론",
+      "249",
+      "2.59"
+    ],
+    [
+      "031980",
+      "피에스케이홀딩스",
+      "69",
+      "2.31"
+    ],
+    [
+      "403870",
+      "HPSP",
+      "202",
+      "2.28"
+    ],
+    [
+      "183300",
+      "코미코",
+      "109",
+      "2.14"
+    ],
+    [
+      "356860",
+      "티엘비",
+      "120",
+      "2.06"
+    ],
+    [
+      "108490",
+      "로보티즈",
+      "36",
+      "1.96"
+    ],
+    [
+      "059090",
+      "미코",
+      "521",
+      "1.94"
+    ],
+    [
+      "084370",
+      "유진테크",
+      "49",
+      "1.90"
+    ],
+    [
+      "131970",
+      "두산테스나",
+      "74",
+      "1.80"
+    ],
+    [
+      "277810",
+      "레인보우로보틱스",
+      "16",
+      "1.74"
+    ],
+    [
+      "086520",
+      "에코프로",
+      "77",
+      "1.72"
+    ],
+    [
+      "161580",
+      "필옵틱스",
+      "220",
+      "1.70"
+    ],
+    [
+      "095340",
+      "ISC",
+      "40",
+      "1.52"
+    ],
+    [
+      "089970",
+      "브이엠",
+      "61",
+      "1.39"
+    ],
+    [
+      "033640",
+      "네패스",
+      "250",
+      "1.34"
+    ],
+    [
+      "141080",
+      "리가켐바이오",
+      "42",
+      "1.32"
+    ],
+    [
+      "247540",
+      "에코프로비엠",
+      "44",
+      "1.31"
+    ],
+    [
+      "226950",
+      "올릭스",
+      "40",
+      "1.30"
+    ],
+    [
+      "171090",
+      "선익시스템",
+      "100",
+      "1.25"
+    ],
+    [
+      "082920",
+      "비츠로셀",
+      "146",
+      "1.24"
+    ],
+    [
+      "347700",
+      "스피어",
+      "249",
+      "1.22"
+    ],
+    [
+      "347850",
+      "디앤디파마텍",
+      "62",
+      "1.13"
+    ],
+    [
+      "077360",
+      "덕산하이메탈",
+      "499",
+      "1.13"
+    ],
+    [
+      "138080",
+      "오이솔루션",
+      "192",
+      "1.00"
+    ],
+    [
+      "078600",
+      "대주전자재료",
+      "49",
+      "1.00"
+    ],
+    [
+      "140860",
+      "파크시스템스",
+      "19",
+      "0.99"
+    ],
+    [
+      "440110",
+      "파두",
+      "53",
+      "0.97"
+    ],
+    [
+      "028300",
+      "HLB",
+      "88",
+      "0.96"
+    ],
+    [
+      "010170",
+      "대한광통신",
+      "308",
+      "0.85"
+    ],
+    [
+      "058610",
+      "에스피지",
+      "50",
+      "0.84"
+    ],
+    [
+      "417200",
+      "LS머트리얼즈",
+      "251",
+      "0.78"
+    ],
+    [
+      "491000",
+      "리브스메드",
+      "100",
+      "0.75"
+    ],
+    [
+      "476830",
+      "알지노믹스",
+      "80",
+      "0.69"
+    ],
+    [
+      "178320",
+      "서진시스템",
+      "62",
+      "0.68"
+    ],
+    [
+      "218410",
+      "RFHIC",
+      "50",
+      "0.66"
+    ],
+    [
+      "452280",
+      "한선엔지니어링",
+      "213",
+      "0.64"
+    ],
+    [
+      "323280",
+      "태성",
+      "65",
+      "0.58"
+    ],
+    [
+      "458870",
+      "씨어스",
+      "70",
+      "0.57"
+    ],
+    [
+      "099320",
+      "쎄트렉아이",
+      "30",
+      "0.57"
+    ],
+    [
+      "089010",
+      "켐트로닉스",
+      "105",
+      "0.56"
+    ],
+    [
+      "100790",
+      "미래에셋벤처투자",
+      "130",
+      "0.53"
+    ],
+    [
+      "298380",
+      "에이비엘바이오",
+      "25",
+      "0.52"
+    ],
+    [
+      "058470",
+      "리노공업",
+      "29",
+      "0.51"
+    ],
+    [
+      "189300",
+      "인텔리안테크",
+      "30",
+      "0.49"
+    ],
+    [
+      "295310",
+      "에이치브이엠",
+      "32",
+      "0.39"
+    ],
+    [
+      "257720",
+      "실리콘투",
+      "53",
+      "0.35"
+    ],
+    [
+      "214370",
+      "케어젠",
+      "23",
+      "0.33"
+    ],
+    [
+      "393890",
+      "더블유씨피",
+      "144",
+      "0.32"
+    ],
+    [
+      "080580",
+      "오킨스전자",
+      "99",
+      "0.31"
+    ],
+    [
+      "0088M0",
+      "메쥬",
+      "101",
+      "0.30"
+    ],
+    [
+      "327260",
+      "RF머트리얼즈",
+      "25",
+      "0.28"
+    ],
+    [
+      "310210",
+      "보로노이",
+      "7",
+      "0.27"
+    ]
+  ],
+  "TIME 글로벌휴머노이드로봇산업액티브": [
+    [
+      "3986 HK EQUITY",
+      "GigaDevice Semiconductor Inc",
+      "155",
+      "7.58"
+    ],
+    [
+      "TER US EQUITY",
+      "Teradyne Inc",
+      "41",
+      "5.87"
+    ],
+    [
+      "3750 HK EQUITY",
+      "Contemporary Amperex Technology Co Ltd",
+      "181",
+      "4.96"
+    ],
+    [
+      "6268 JP EQUITY",
+      "Nabtesco Corp",
+      "490",
+      "4.70"
+    ],
+    [
+      "688256 CH EQUITY",
+      "Cambricon Technologies Corp Ltd",
+      "69",
+      "4.65"
+    ],
+    [
+      "688017 CH EQUITY",
+      "Leader Harmonious Drive Systems Co Ltd",
+      "279",
+      "4.59"
+    ],
+    [
+      "9880 HK EQUITY",
+      "UBTech Robotics Corp Ltd",
+      "1,127",
+      "4.25"
+    ],
+    [
+      "6981 JP EQUITY",
+      "Murata Manufacturing Co Ltd",
+      "188",
+      "3.84"
+    ],
+    [
+      "277810",
+      "레인보우로보틱스",
+      "34",
+      "3.52"
+    ],
+    [
+      "005380",
+      "현대차",
+      "30",
+      "2.96"
+    ],
+    [
+      "NVDA US EQUITY",
+      "NVIDIA Corp",
+      "49",
+      "2.95"
+    ],
+    [
+      "TSLA US EQUITY",
+      "Tesla Inc",
+      "23",
+      "2.93"
+    ],
+    [
+      "2050 HK EQUITY",
+      "Zhejiang Sanhua Intelligent Controls Co Ltd",
+      "2,882",
+      "2.86"
+    ],
+    [
+      "ROK US EQUITY",
+      "Rockwell Automation Inc",
+      "19",
+      "2.83"
+    ],
+    [
+      "285A JP EQUITY",
+      "Kioxia Holdings Corp",
+      "16",
+      "2.69"
+    ],
+    [
+      "601689 CH EQUITY",
+      "Ningbo Tuopu Group Co Ltd",
+      "1,089",
+      "2.60"
+    ],
+    [
+      "HSAI US EQUITY",
+      "Hesai Group",
+      "497",
+      "2.42"
+    ],
+    [
+      "6324 JP EQUITY",
+      "Harmonic Drive Systems Inc",
+      "178",
+      "2.41"
+    ],
+    [
+      "108490",
+      "로보티즈",
+      "45",
+      "2.33"
+    ],
+    [
+      "6861 JP EQUITY",
+      "Keyence Corp",
+      "15",
+      "2.23"
+    ],
+    [
+      "300124 CH EQUITY",
+      "Shenzhen Inovance Technology Co Ltd",
+      "683",
+      "2.03"
+    ],
+    [
+      "601100 CH EQUITY",
+      "Jiangsu Hengli Hydraulic Co Ltd",
+      "379",
+      "1.85"
+    ],
+    [
+      "012330",
+      "현대모비스",
+      "17",
+      "1.70"
+    ],
+    [
+      "6954 JP EQUITY",
+      "FANUC Corp",
+      "121",
+      "1.62"
+    ],
+    [
+      "2513 HK EQUITY",
+      "Knowledge Atlas Technology JSC Ltd",
+      "21",
+      "1.62"
+    ],
+    [
+      "300433 CH EQUITY",
+      "Lens Technology Co Ltd",
+      "681",
+      "1.61"
+    ],
+    [
+      "002371 CH EQUITY",
+      "NAURA Technology Group Co Ltd",
+      "39",
+      "1.53"
+    ],
+    [
+      "058610",
+      "에스피지",
+      "90",
+      "1.44"
+    ],
+    [
+      "002472 C2 EQUITY",
+      "Zhejiang Shuanghuan Driveline Co Ltd",
+      "837",
+      "1.44"
+    ],
+    [
+      "603119 CH EQUITY",
+      "Zhejiang Rongtai Electric Material Co Ltd",
+      "482",
+      "1.42"
+    ],
+    [
+      "688041 CH EQUITY",
+      "Hygon Information Technology Co Ltd",
+      "87",
+      "1.41"
+    ],
+    [
+      "005930",
+      "삼성전자",
+      "19",
+      "1.27"
+    ],
+    [
+      "INTC US EQUITY",
+      "Intel Corp",
+      "30",
+      "1.22"
+    ],
+    [
+      "1347 HK EQUITY",
+      "Hua Hong Grace Semiconductor Ltd",
+      "150",
+      "1.21"
+    ],
+    [
+      "VPG US EQUITY",
+      "Vishay Precision Group Inc",
+      "27",
+      "1.19"
+    ],
+    [
+      "002896 CH EQUITY",
+      "Ningbo Zhongda Leader Intelligent Transmission Co Ltd",
+      "339",
+      "1.11"
+    ],
+    [
+      "688585 CH EQUITY",
+      "Swancor Advanced Materials Co Ltd",
+      "160",
+      "1.11"
+    ],
+    [
+      "688012 CH EQUITY",
+      "Advanced Micro-Fabrication Equipment Inc China",
+      "47",
+      "0.98"
+    ]
+  ]
+}
