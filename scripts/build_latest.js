@@ -53,6 +53,7 @@ function buildMainData(historyDir) {
   const cutoffStr = cutoff.toISOString().split('T')[0];
   const filteredDates = dates.filter(d => d >= cutoffStr);
 
+  const activeNames = new Set(ETF_LIST.map(e => e.name));
   const data = {}; // { etfName: { date: [[ticker,name,qty,weight],...] } }
 
   for (const date of filteredDates) {
@@ -60,6 +61,8 @@ function buildMainData(historyDir) {
     const snapshot = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
 
     for (const [etfName, rows] of Object.entries(snapshot)) {
+      // 운용사 목록에서 빠진(상장폐지) ETF는 latest 빌드에서 제외 — history에는 남는다
+      if (!activeNames.has(etfName)) continue;
       if (!data[etfName]) data[etfName] = {};
       data[etfName][date] = rows;
     }

@@ -10,7 +10,6 @@ const ETF_LIST = [
   { idx: '6',  name: 'TIME 글로벌AI인공지능액티브' },
   { idx: '12', name: 'TIME Korea플러스배당액티브' },
   { idx: '2',  name: 'TIME 미국나스닥100액티브' },
-  { idx: '18', name: 'TIME 미국배당다우존스액티브' },
   { idx: '10', name: 'TIME 미국나스닥100채권혼합50액티브' },
   { idx: '11', name: 'TIME 코스피액티브' },
   { idx: '8',  name: 'TIME 글로벌소비트렌드액티브' },
@@ -24,7 +23,7 @@ const ETF_LIST = [
 const GLOBAL_ETFS = [
   'TIME 글로벌탑픽액티브', 'TIME 글로벌바이오액티브', 'TIME 글로벌우주테크&방산액티브',
   'TIME 미국S&P500액티브', 'TIME 차이나AI테크액티브', 'TIME 글로벌AI인공지능액티브',
-  'TIME 미국나스닥100액티브', 'TIME 미국배당다우존스액티브',
+  'TIME 미국나스닥100액티브',
   'TIME 미국나스닥100채권혼합50액티브', 'TIME 글로벌소비트렌드액티브',
   'TIME 글로벌휴머노이드로봇산업액티브'
 ];
